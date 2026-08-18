@@ -1,0 +1,20 @@
+table_name,column_name,description
+customers,customer_id,Unique customer identifier
+customers,signup_date,Date customer registered
+customers,acquisition_channel,Marketing source that acquired the customer
+orders,order_id,Unique order identifier
+orders,customer_id,Customer who placed the order
+orders,order_status,"Completed, Cancelled, or Returned"
+orders,total_amount,Total order value before shipping
+orders,discount_amount,Discount applied to the order
+order_items,quantity,Units purchased
+order_items,selling_price,Actual selling price per unit
+order_items,cost_price,Product cost per unit
+order_items,discount,List price minus selling price per unit
+products,category,Main product category
+products,sub_category,Product sub-category
+marketing_campaigns,campaign_cost,Marketing spend
+website_events,event_type,Customer journey event
+website_events,session_id,Website session identifier
+customer_support,resolution_time_hours,Hours required to resolve support ticket
+customer_support,satisfaction_score,Customer satisfaction rating from 1 to 5
