@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,cost_price,list_price
+PROD00001,Viva Footwear Model-0001,Fashion,Footwear,Viva,127.34,218.72
+PROD00002,Astra Laptops Model-0002,Electronics,Laptops,Astra,1822.59,2593.85
+PROD00003,Trendora Women Model-0003,Fashion,Women,Trendora,1142.19,2344.73
+PROD00004,Astra Audio Model-0004,Electronics,Audio,Astra,1672.55,2258.64
+PROD00005,Viva Footwear Model-0005,Fashion,Footwear,Viva,240.51,482.75
+PROD00006,UrbanWeave Footwear Model-0006,Fashion,Footwear,UrbanWeave,1179.71,2053.33
+PROD00007,Trendora Footwear Model-0007,Fashion,Footwear,Trendora,391.48,778.37
+PROD00008,Trendora Men Model-0008,Fashion,Men,Trendora,1823.24,2806.96
+PROD00009,Luma Makeup Model-0009,Beauty,Makeup,Luma,265.2,558.21
+PROD00010,Astra Mobiles Model-0010,Electronics,Mobiles,Astra,1895.8,3712.01
+PROD00011,Astra Mobiles Model-0011,Electronics,Mobiles,Astra,927.05,1864.31
+PROD00012,StreetNine Footwear Model-0012,Fashion,Footwear,StreetNine,1265.43,2644.72
+PROD00013,Viva Men Model-0013,Fashion,Men,Viva,11594.21,17019.66
+PROD00014,Trendora Accessories Model-0014,Fashion,Accessories,Trendora,322.93,395.85
+PROD00015,Trendora Men Model-0015,Fashion,Men,Trendora,736.59,1439.56
+PROD00016,StreetNine Women Model-0016,Fashion,Women,StreetNine,893.7,1196.38
+PROD00017,StreetNine Footwear Model-0017,Fashion,Footwear,StreetNine,2269.54,3149.48
+PROD00018,GlowLab Personal Care Model-0018,Beauty,Personal Care,GlowLab,1686.2,3402.49
+PROD00019,FlexGear Outdoor Model-0019,Sports,Outdoor,FlexGear,3374.13,4683.09
+PROD00020,Astra Laptops Model-0020,Electronics,Laptops,Astra,2004.63,4106.7
+PROD00021,FlexGear Fitness Model-0021,Sports,Fitness,FlexGear,380.92,662.27
+PROD00022,ZenLiving Decor Model-0022,Home & Kitchen,Decor,ZenLiving,1214.19,2395.4
+PROD00023,GlowLab Fragrance Model-0023,Beauty,Fragrance,GlowLab,3182.47,6623.0
+PROD00024,PureAura Haircare Model-0024,Beauty,Haircare,PureAura,324.97,602.45
+PROD00025,ZenLiving Furniture Model-0025,Home & Kitchen,Furniture,ZenLiving,742.62,1488.12
+PROD00026,ModeHub Men Model-0026,Fashion,Men,ModeHub,450.68,765.13
+PROD00027,Luma Haircare Model-0027,Beauty,Haircare,Luma,1223.22,2357.02
+PROD00028,FlexGear Running Model-0028,Sports,Running,FlexGear,1309.23,2123.86
+PROD00029,FlexGear Yoga Model-0029,Sports,Yoga,FlexGear,203.13,409.69
+PROD00030,Viva Women Model-0030,Fashion,Women,Viva,135.28,241.88
+PROD00031,StreetNine Kids Model-0031,Fashion,Kids,StreetNine,1886.54,2641.94
+PROD00032,SoundMax Laptops Model-0032,Electronics,Laptops,SoundMax,808.07,1305.02
+PROD00033,Viva Kids Model-0033,Fashion,Kids,Viva,628.08,771.86
+PROD00034,PeakMotion Team Sports Model-0034,Sports,Team Sports,PeakMotion,1022.26,1667.05
+PROD00035,Trendora Accessories Model-0035,Fashion,Accessories,Trendora,155.7,332.27
+PROD00036,ZenLiving Kitchen Model-0036,Home & Kitchen,Kitchen,ZenLiving,2642.4,4703.42
+PROD00037,UrbanWeave Footwear Model-0037,Fashion,Footwear,UrbanWeave,359.79,676.55
+PROD00038,FitCore Yoga Model-0038,Sports,Yoga,FitCore,719.08,883.62
+PROD00039,Voltix Smart Home Model-0039,Electronics,Smart Home,Voltix,3739.11,7526.09
+PROD00040,PixelPro Laptops Model-0040,Electronics,Laptops,PixelPro,1597.98,3346.4
+PROD00041,ModeHub Kids Model-0041,Fashion,Kids,ModeHub,151.22,318.94
+PROD00042,CookCraft Furniture Model-0042,Home & Kitchen,Furniture,CookCraft,703.01,924.59
+PROD00043,CookCraft Furniture Model-0043,Home & Kitchen,Furniture,CookCraft,582.71,1155.39
+PROD00044,FitCore Running Model-0044,Sports,Running,FitCore,362.78,612.18
+PROD00045,StreetNine Footwear Model-0045,Fashion,Footwear,StreetNine,98.07,158.21
+PROD00046,NovaTech Audio Model-0046,Electronics,Audio,NovaTech,664.86,1420.25
+PROD00047,NovaTech Laptops Model-0047,Electronics,Laptops,NovaTech,304.87,418.45
+PROD00048,BrightHome Appliances Model-0048,Home & Kitchen,Appliances,BrightHome,1344.3,2576.81
+PROD00049,NovaTech Audio Model-0049,Electronics,Audio,NovaTech,155.48,306.82
+PROD00050,VelvetSkin Fragrance Model-0050,Beauty,Fragrance,VelvetSkin,1299.77,1596.18
+PROD00051,PixelPro Mobiles Model-0051,Electronics,Mobiles,PixelPro,6439.9,8554.06
+PROD00052,CookCraft Storage Model-0052,Home & Kitchen,Storage,CookCraft,574.52,1026.82
+PROD00053,Luma Skincare Model-0053,Beauty,Skincare,Luma,7760.02,13445.92
+PROD00054,StreetNine Accessories Model-0054,Fashion,Accessories,StreetNine,390.2,832.06
+PROD00055,UrbanWeave Men Model-0055,Fashion,Men,UrbanWeave,1411.48,2068.55
+PROD00056,ModeHub Women Model-0056,Fashion,Women,ModeHub,1542.14,3295.42
+PROD00057,GlowLab Skincare Model-0057,Beauty,Skincare,GlowLab,322.01,420.55
+PROD00058,HomeNest Kitchen Model-0058,Home & Kitchen,Kitchen,HomeNest,252.85,504.93
+PROD00059,CookCraft Decor Model-0059,Home & Kitchen,Decor,CookCraft,461.19,742.54
+PROD00060,FitCore Yoga Model-0060,Sports,Yoga,FitCore,439.11,528.51
+PROD00061,PeakMotion Team Sports Model-0061,Sports,Team Sports,PeakMotion,2611.87,4377.25
+PROD00062,VelvetSkin Personal Care Model-0062,Beauty,Personal Care,VelvetSkin,345.55,418.22
+PROD00063,Luma Makeup Model-0063,Beauty,Makeup,Luma,545.32,1144.77
+PROD00064,Bloom Skincare Model-0064,Beauty,Skincare,Bloom,813.88,1057.28
+PROD00065,CookCraft Decor Model-0065,Home & Kitchen,Decor,CookCraft,1439.06,3067.53
+PROD00066,BrightHome Decor Model-0066,Home & Kitchen,Decor,BrightHome,323.95,548.91
+PROD00067,Viva Women Model-0067,Fashion,Women,Viva,275.53,476.56
+PROD00068,ActivePro Fitness Model-0068,Sports,Fitness,ActivePro,1021.58,2212.12
+PROD00069,CookCraft Furniture Model-0069,Home & Kitchen,Furniture,CookCraft,1117.52,1823.59
+PROD00070,PureAura Fragrance Model-0070,Beauty,Fragrance,PureAura,8352.87,15113.02
+PROD00071,UrbanWeave Accessories Model-0071,Fashion,Accessories,UrbanWeave,397.71,703.06
+PROD00072,StreetNine Men Model-0072,Fashion,Men,StreetNine,2942.17,5795.37
+PROD00073,Luma Fragrance Model-0073,Beauty,Fragrance,Luma,598.51,826.91
+PROD00074,Trendora Kids Model-0074,Fashion,Kids,Trendora,328.75,520.05
+PROD00075,CookCraft Furniture Model-0075,Home & Kitchen,Furniture,CookCraft,1546.51,3256.99
+PROD00076,VelvetSkin Makeup Model-0076,Beauty,Makeup,VelvetSkin,938.48,1659.36
+PROD00077,PureAura Fragrance Model-0077,Beauty,Fragrance,PureAura,422.69,690.42
+PROD00078,UrbanWeave Kids Model-0078,Fashion,Kids,UrbanWeave,1673.78,3139.3
+PROD00079,StreetNine Accessories Model-0079,Fashion,Accessories,StreetNine,585.72,1215.76
+PROD00080,CookCraft Decor Model-0080,Home & Kitchen,Decor,CookCraft,1750.58,3125.15
+PROD00081,Astra Smart Home Model-0081,Electronics,Smart Home,Astra,622.65,1084.31
+PROD00082,Voltix Accessories Model-0082,Electronics,Accessories,Voltix,528.15,1091.17
+PROD00083,NovaTech Accessories Model-0083,Electronics,Accessories,NovaTech,336.63,567.39
+PROD00084,HomeNest Appliances Model-0084,Home & Kitchen,Appliances,HomeNest,880.19,1834.69
+PROD00085,Trendora Accessories Model-0085,Fashion,Accessories,Trendora,655.61,1422.38
+PROD00086,CookCraft Decor Model-0086,Home & Kitchen,Decor,CookCraft,1293.23,2306.12
+PROD00087,Luma Skincare Model-0087,Beauty,Skincare,Luma,194.13,376.04
+PROD00088,Viva Footwear Model-0088,Fashion,Footwear,Viva,527.9,881.37
+PROD00089,ZenLiving Storage Model-0089,Home & Kitchen,Storage,ZenLiving,2676.15,5632.69
+PROD00090,ModeHub Kids Model-0090,Fashion,Kids,ModeHub,844.54,1347.86
+PROD00091,Astra Audio Model-0091,Electronics,Audio,Astra,2069.92,4473.88
+PROD00092,GlowLab Skincare Model-0092,Beauty,Skincare,GlowLab,1394.51,2410.28
+PROD00093,ModeHub Men Model-0093,Fashion,Men,ModeHub,629.21,1275.8
+PROD00094,UrbanWeave Men Model-0094,Fashion,Men,UrbanWeave,2448.8,3444.24
+PROD00095,Bloom Personal Care Model-0095,Beauty,Personal Care,Bloom,1190.49,1655.9
+PROD00096,StreetNine Kids Model-0096,Fashion,Kids,StreetNine,471.92,702.11
+PROD00097,VelvetSkin Personal Care Model-0097,Beauty,Personal Care,VelvetSkin,1165.57,2451.5
+PROD00098,PeakMotion Fitness Model-0098,Sports,Fitness,PeakMotion,873.89,1125.3
+PROD00099,PixelPro Accessories Model-0099,Electronics,Accessories,PixelPro,565.58,958.88
+PROD00100,Trendora Women Model-0100,Fashion,Women,Trendora,2268.08,3392.25
+PROD00101,ZenLiving Decor Model-0101,Home & Kitchen,Decor,ZenLiving,1991.59,3782.8
+PROD00102,Viva Footwear Model-0102,Fashion,Footwear,Viva,807.95,1417.94
+PROD00103,Bloom Personal Care Model-0103,Beauty,Personal Care,Bloom,1013.02,1232.03
+PROD00104,UrbanWeave Men Model-0104,Fashion,Men,UrbanWeave,1553.61,1883.5
+PROD00105,RunX Fitness Model-0105,Sports,Fitness,RunX,415.49,517.42
+PROD00106,Astra Accessories Model-0106,Electronics,Accessories,Astra,669.22,1056.29
+PROD00107,BrightHome Kitchen Model-0107,Home & Kitchen,Kitchen,BrightHome,4291.84,8263.79
+PROD00108,FitCore Outdoor Model-0108,Sports,Outdoor,FitCore,574.41,788.63
+PROD00109,CookCraft Kitchen Model-0109,Home & Kitchen,Kitchen,CookCraft,1438.85,2556.96
+PROD00110,PeakMotion Outdoor Model-0110,Sports,Outdoor,PeakMotion,1141.01,1736.63
+PROD00111,ModeHub Women Model-0111,Fashion,Women,ModeHub,2497.25,4686.65
+PROD00112,StreetNine Women Model-0112,Fashion,Women,StreetNine,1476.28,1882.37
+PROD00113,Trendora Footwear Model-0113,Fashion,Footwear,Trendora,437.29,530.31
+PROD00114,Trendora Footwear Model-0114,Fashion,Footwear,Trendora,2625.16,4373.29
+PROD00115,NovaTech Audio Model-0115,Electronics,Audio,NovaTech,280.92,397.27
+PROD00116,Astra Smart Home Model-0116,Electronics,Smart Home,Astra,706.53,1006.94
+PROD00117,Bloom Personal Care Model-0117,Beauty,Personal Care,Bloom,178.77,246.67
+PROD00118,Voltix Mobiles Model-0118,Electronics,Mobiles,Voltix,1488.67,2650.11
+PROD00119,HomeNest Storage Model-0119,Home & Kitchen,Storage,HomeNest,10000.71,21608.39
+PROD00120,CasaPlus Furniture Model-0120,Home & Kitchen,Furniture,CasaPlus,1876.02,2616.64
+PROD00121,HomeNest Decor Model-0121,Home & Kitchen,Decor,HomeNest,1578.39,1938.93
+PROD00122,HomeNest Kitchen Model-0122,Home & Kitchen,Kitchen,HomeNest,434.86,607.17
+PROD00123,CookCraft Kitchen Model-0123,Home & Kitchen,Kitchen,CookCraft,796.29,1347.62
+PROD00124,Viva Kids Model-0124,Fashion,Kids,Viva,441.2,748.0
+PROD00125,FlexGear Yoga Model-0125,Sports,Yoga,FlexGear,449.26,977.25
+PROD00126,ModeHub Men Model-0126,Fashion,Men,ModeHub,1151.52,2104.13
+PROD00127,Astra Audio Model-0127,Electronics,Audio,Astra,114.07,214.18
+PROD00128,Voltix Smart Home Model-0128,Electronics,Smart Home,Voltix,594.43,810.32
+PROD00129,Bloom Personal Care Model-0129,Beauty,Personal Care,Bloom,397.64,501.41
+PROD00130,BrightHome Furniture Model-0130,Home & Kitchen,Furniture,BrightHome,197.56,304.1
+PROD00131,FlexGear Fitness Model-0131,Sports,Fitness,FlexGear,1195.62,2032.49
+PROD00132,ModeHub Kids Model-0132,Fashion,Kids,ModeHub,841.47,1666.41
+PROD00133,Viva Men Model-0133,Fashion,Men,Viva,351.8,654.67
+PROD00134,ZenLiving Storage Model-0134,Home & Kitchen,Storage,ZenLiving,721.04,1138.76
+PROD00135,PureAura Makeup Model-0135,Beauty,Makeup,PureAura,1340.44,2945.98
+PROD00136,ModeHub Footwear Model-0136,Fashion,Footwear,ModeHub,763.93,1327.35
+PROD00137,Viva Footwear Model-0137,Fashion,Footwear,Viva,889.28,1404.62
+PROD00138,FitCore Fitness Model-0138,Sports,Fitness,FitCore,496.48,681.99
+PROD00139,CasaPlus Decor Model-0139,Home & Kitchen,Decor,CasaPlus,221.45,455.34
+PROD00140,CasaPlus Appliances Model-0140,Home & Kitchen,Appliances,CasaPlus,225.34,478.7
+PROD00141,NovaTech Smart Home Model-0141,Electronics,Smart Home,NovaTech,1013.38,1740.59
+PROD00142,UrbanWeave Kids Model-0142,Fashion,Kids,UrbanWeave,2157.18,3222.98
+PROD00143,SoundMax Audio Model-0143,Electronics,Audio,SoundMax,588.59,896.5
+PROD00144,UrbanWeave Men Model-0144,Fashion,Men,UrbanWeave,4075.29,6313.4
+PROD00145,Viva Footwear Model-0145,Fashion,Footwear,Viva,1030.6,1892.7
+PROD00146,Voltix Mobiles Model-0146,Electronics,Mobiles,Voltix,1938.79,2875.38
+PROD00147,FitCore Running Model-0147,Sports,Running,FitCore,704.87,944.61
+PROD00148,RunX Outdoor Model-0148,Sports,Outdoor,RunX,887.71,1391.07
+PROD00149,StreetNine Men Model-0149,Fashion,Men,StreetNine,1174.32,1758.64
+PROD00150,Viva Accessories Model-0150,Fashion,Accessories,Viva,152.17,207.53
+PROD00151,ModeHub Women Model-0151,Fashion,Women,ModeHub,1050.43,1794.06
+PROD00152,ModeHub Kids Model-0152,Fashion,Kids,ModeHub,3250.15,5647.1
+PROD00153,Bloom Personal Care Model-0153,Beauty,Personal Care,Bloom,710.09,928.0
+PROD00154,SoundMax Smart Home Model-0154,Electronics,Smart Home,SoundMax,1702.69,3632.78
+PROD00155,CasaPlus Storage Model-0155,Home & Kitchen,Storage,CasaPlus,308.59,644.56
+PROD00156,ZenLiving Kitchen Model-0156,Home & Kitchen,Kitchen,ZenLiving,1594.0,3067.44
+PROD00157,Astra Audio Model-0157,Electronics,Audio,Astra,1999.12,4051.78
+PROD00158,Bloom Skincare Model-0158,Beauty,Skincare,Bloom,2088.31,2784.89
+PROD00159,GlowLab Haircare Model-0159,Beauty,Haircare,GlowLab,4954.9,8848.81
+PROD00160,Voltix Audio Model-0160,Electronics,Audio,Voltix,1040.08,1853.51
+PROD00161,ModeHub Women Model-0161,Fashion,Women,ModeHub,2747.02,3566.9
+PROD00162,StreetNine Men Model-0162,Fashion,Men,StreetNine,124.89,183.81
+PROD00163,UrbanWeave Men Model-0163,Fashion,Men,UrbanWeave,2363.24,2955.6
+PROD00164,Viva Footwear Model-0164,Fashion,Footwear,Viva,440.0,719.63
+PROD00165,FlexGear Yoga Model-0165,Sports,Yoga,FlexGear,422.27,685.86
+PROD00166,ActivePro Team Sports Model-0166,Sports,Team Sports,ActivePro,4184.21,6849.41
+PROD00167,UrbanWeave Men Model-0167,Fashion,Men,UrbanWeave,979.79,1210.47
+PROD00168,ZenLiving Appliances Model-0168,Home & Kitchen,Appliances,ZenLiving,1418.94,2852.79
+PROD00169,HomeNest Decor Model-0169,Home & Kitchen,Decor,HomeNest,235.03,470.48
+PROD00170,CookCraft Decor Model-0170,Home & Kitchen,Decor,CookCraft,2677.5,4917.0
+PROD00171,Viva Accessories Model-0171,Fashion,Accessories,Viva,943.21,1456.73
+PROD00172,SoundMax Smart Home Model-0172,Electronics,Smart Home,SoundMax,1174.58,1724.66
+PROD00173,FitCore Running Model-0173,Sports,Running,FitCore,2772.4,4301.7
+PROD00174,Trendora Kids Model-0174,Fashion,Kids,Trendora,2257.24,2981.86
+PROD00175,SoundMax Smart Home Model-0175,Electronics,Smart Home,SoundMax,1242.78,2173.88
+PROD00176,PureAura Makeup Model-0176,Beauty,Makeup,PureAura,352.59,520.0
+PROD00177,UrbanWeave Accessories Model-0177,Fashion,Accessories,UrbanWeave,1460.26,2757.26
+PROD00178,Bloom Makeup Model-0178,Beauty,Makeup,Bloom,256.83,327.92
+PROD00179,RunX Team Sports Model-0179,Sports,Team Sports,RunX,2003.43,2591.49
+PROD00180,CookCraft Kitchen Model-0180,Home & Kitchen,Kitchen,CookCraft,753.55,1090.69
+PROD00181,ZenLiving Decor Model-0181,Home & Kitchen,Decor,ZenLiving,312.06,571.69
+PROD00182,PureAura Personal Care Model-0182,Beauty,Personal Care,PureAura,289.64,399.86
+PROD00183,RunX Outdoor Model-0183,Sports,Outdoor,RunX,648.89,1306.23
+PROD00184,PeakMotion Running Model-0184,Sports,Running,PeakMotion,550.31,1186.95
+PROD00185,GlowLab Haircare Model-0185,Beauty,Haircare,GlowLab,924.1,1812.42
+PROD00186,ModeHub Women Model-0186,Fashion,Women,ModeHub,215.21,382.36
+PROD00187,StreetNine Footwear Model-0187,Fashion,Footwear,StreetNine,502.65,691.23
+PROD00188,CookCraft Kitchen Model-0188,Home & Kitchen,Kitchen,CookCraft,1114.8,2283.26
+PROD00189,UrbanWeave Men Model-0189,Fashion,Men,UrbanWeave,185.84,265.92
+PROD00190,Trendora Men Model-0190,Fashion,Men,Trendora,306.73,533.01
+PROD00191,VelvetSkin Haircare Model-0191,Beauty,Haircare,VelvetSkin,935.72,1676.32
+PROD00192,PixelPro Laptops Model-0192,Electronics,Laptops,PixelPro,1354.22,2013.88
+PROD00193,Voltix Smart Home Model-0193,Electronics,Smart Home,Voltix,374.32,509.83
+PROD00194,StreetNine Men Model-0194,Fashion,Men,StreetNine,720.02,1229.91
+PROD00195,SoundMax Laptops Model-0195,Electronics,Laptops,SoundMax,981.55,1228.93
+PROD00196,NovaTech Smart Home Model-0196,Electronics,Smart Home,NovaTech,963.24,1328.41
+PROD00197,PixelPro Audio Model-0197,Electronics,Audio,PixelPro,370.44,445.61
+PROD00198,Bloom Haircare Model-0198,Beauty,Haircare,Bloom,2038.5,2837.28
+PROD00199,Voltix Laptops Model-0199,Electronics,Laptops,Voltix,729.94,1431.78
+PROD00200,Bloom Makeup Model-0200,Beauty,Makeup,Bloom,1126.57,1564.91
+PROD00201,Astra Smart Home Model-0201,Electronics,Smart Home,Astra,1050.75,1794.78
+PROD00202,PixelPro Laptops Model-0202,Electronics,Laptops,PixelPro,3931.53,6645.17
+PROD00203,PeakMotion Yoga Model-0203,Sports,Yoga,PeakMotion,1180.28,2090.83
+PROD00204,ActivePro Running Model-0204,Sports,Running,ActivePro,624.82,1186.66
+PROD00205,Astra Smart Home Model-0205,Electronics,Smart Home,Astra,265.52,560.99
+PROD00206,Trendora Footwear Model-0206,Fashion,Footwear,Trendora,320.8,528.82
+PROD00207,GlowLab Personal Care Model-0207,Beauty,Personal Care,GlowLab,862.05,1299.56
+PROD00208,GlowLab Fragrance Model-0208,Beauty,Fragrance,GlowLab,724.33,1067.43
+PROD00209,CasaPlus Decor Model-0209,Home & Kitchen,Decor,CasaPlus,589.01,1071.55
+PROD00210,SoundMax Laptops Model-0210,Electronics,Laptops,SoundMax,1880.31,3885.4
+PROD00211,ModeHub Accessories Model-0211,Fashion,Accessories,ModeHub,1498.94,2420.09
+PROD00212,ZenLiving Decor Model-0212,Home & Kitchen,Decor,ZenLiving,356.15,556.35
+PROD00213,FlexGear Running Model-0213,Sports,Running,FlexGear,457.11,671.17
+PROD00214,ZenLiving Furniture Model-0214,Home & Kitchen,Furniture,ZenLiving,168.82,273.57
+PROD00215,NovaTech Laptops Model-0215,Electronics,Laptops,NovaTech,427.99,807.31
+PROD00216,StreetNine Women Model-0216,Fashion,Women,StreetNine,2712.44,3579.74
+PROD00217,Viva Kids Model-0217,Fashion,Kids,Viva,959.36,1313.28
+PROD00218,StreetNine Women Model-0218,Fashion,Women,StreetNine,419.18,561.42
+PROD00219,Trendora Accessories Model-0219,Fashion,Accessories,Trendora,681.81,834.09
+PROD00220,Trendora Kids Model-0220,Fashion,Kids,Trendora,2014.03,3136.89
+PROD00221,Trendora Women Model-0221,Fashion,Women,Trendora,2005.54,3537.8
+PROD00222,BrightHome Appliances Model-0222,Home & Kitchen,Appliances,BrightHome,830.45,1662.69
+PROD00223,VelvetSkin Haircare Model-0223,Beauty,Haircare,VelvetSkin,514.55,1093.44
+PROD00224,ModeHub Women Model-0224,Fashion,Women,ModeHub,1639.27,2454.66
+PROD00225,ModeHub Women Model-0225,Fashion,Women,ModeHub,1982.2,3102.05
+PROD00226,ModeHub Kids Model-0226,Fashion,Kids,ModeHub,546.24,719.43
+PROD00227,ZenLiving Appliances Model-0227,Home & Kitchen,Appliances,ZenLiving,126.08,206.19
+PROD00228,Viva Footwear Model-0228,Fashion,Footwear,Viva,1327.29,2064.75
+PROD00229,ActivePro Fitness Model-0229,Sports,Fitness,ActivePro,1913.01,3320.94
+PROD00230,BrightHome Appliances Model-0230,Home & Kitchen,Appliances,BrightHome,1479.75,1987.91
+PROD00231,Trendora Footwear Model-0231,Fashion,Footwear,Trendora,1647.04,3187.59
+PROD00232,ActivePro Running Model-0232,Sports,Running,ActivePro,286.14,421.44
+PROD00233,PixelPro Smart Home Model-0233,Electronics,Smart Home,PixelPro,992.79,1860.53
+PROD00234,ActivePro Outdoor Model-0234,Sports,Outdoor,ActivePro,719.52,1326.41
+PROD00235,RunX Team Sports Model-0235,Sports,Team Sports,RunX,1299.0,1773.05
+PROD00236,HomeNest Appliances Model-0236,Home & Kitchen,Appliances,HomeNest,383.57,592.16
+PROD00237,RunX Outdoor Model-0237,Sports,Outdoor,RunX,1689.07,2498.72
+PROD00238,Astra Accessories Model-0238,Electronics,Accessories,Astra,723.71,1275.83
+PROD00239,CasaPlus Decor Model-0239,Home & Kitchen,Decor,CasaPlus,736.64,1015.93
+PROD00240,NovaTech Accessories Model-0240,Electronics,Accessories,NovaTech,368.43,563.38
+PROD00241,FlexGear Team Sports Model-0241,Sports,Team Sports,FlexGear,548.57,987.88
+PROD00242,NovaTech Accessories Model-0242,Electronics,Accessories,NovaTech,395.68,503.66
+PROD00243,UrbanWeave Women Model-0243,Fashion,Women,UrbanWeave,276.03,382.01
+PROD00244,PixelPro Accessories Model-0244,Electronics,Accessories,PixelPro,1802.42,2382.76
+PROD00245,Voltix Smart Home Model-0245,Electronics,Smart Home,Voltix,1656.85,3301.37
+PROD00246,CookCraft Furniture Model-0246,Home & Kitchen,Furniture,CookCraft,1488.55,2503.78
+PROD00247,Luma Fragrance Model-0247,Beauty,Fragrance,Luma,445.6,675.62
+PROD00248,NovaTech Laptops Model-0248,Electronics,Laptops,NovaTech,360.71,535.37
+PROD00249,SoundMax Accessories Model-0249,Electronics,Accessories,SoundMax,1167.31,1785.38
+PROD00250,RunX Yoga Model-0250,Sports,Yoga,RunX,1304.79,1604.83
+PROD00251,NovaTech Mobiles Model-0251,Electronics,Mobiles,NovaTech,1799.71,3762.91
+PROD00252,StreetNine Kids Model-0252,Fashion,Kids,StreetNine,1217.67,2153.15
+PROD00253,HomeNest Appliances Model-0253,Home & Kitchen,Appliances,HomeNest,2295.29,4429.49
+PROD00254,PixelPro Smart Home Model-0254,Electronics,Smart Home,PixelPro,2512.0,5434.43
+PROD00255,NovaTech Mobiles Model-0255,Electronics,Mobiles,NovaTech,1298.54,2049.14
+PROD00256,BrightHome Appliances Model-0256,Home & Kitchen,Appliances,BrightHome,779.35,1562.66
+PROD00257,RunX Outdoor Model-0257,Sports,Outdoor,RunX,838.57,1803.64
+PROD00258,Luma Haircare Model-0258,Beauty,Haircare,Luma,1917.77,3333.05
+PROD00259,PixelPro Accessories Model-0259,Electronics,Accessories,PixelPro,636.4,1120.95
+PROD00260,StreetNine Kids Model-0260,Fashion,Kids,StreetNine,477.06,915.3
+PROD00261,CasaPlus Storage Model-0261,Home & Kitchen,Storage,CasaPlus,559.58,1041.36
+PROD00262,NovaTech Smart Home Model-0262,Electronics,Smart Home,NovaTech,205.04,415.5
+PROD00263,VelvetSkin Makeup Model-0263,Beauty,Makeup,VelvetSkin,540.01,927.72
+PROD00264,ZenLiving Appliances Model-0264,Home & Kitchen,Appliances,ZenLiving,1619.0,3146.47
+PROD00265,PixelPro Smart Home Model-0265,Electronics,Smart Home,PixelPro,355.92,708.83
+PROD00266,CookCraft Furniture Model-0266,Home & Kitchen,Furniture,CookCraft,2832.57,3845.08
+PROD00267,CasaPlus Appliances Model-0267,Home & Kitchen,Appliances,CasaPlus,1424.38,1922.31
+PROD00268,NovaTech Laptops Model-0268,Electronics,Laptops,NovaTech,3360.64,4839.71
+PROD00269,CasaPlus Appliances Model-0269,Home & Kitchen,Appliances,CasaPlus,1539.82,2985.97
+PROD00270,SoundMax Smart Home Model-0270,Electronics,Smart Home,SoundMax,2150.89,4590.41
+PROD00271,Luma Fragrance Model-0271,Beauty,Fragrance,Luma,4387.43,6082.39
+PROD00272,CookCraft Kitchen Model-0272,Home & Kitchen,Kitchen,CookCraft,309.95,578.71
+PROD00273,CookCraft Kitchen Model-0273,Home & Kitchen,Kitchen,CookCraft,1773.38,2215.72
+PROD00274,SoundMax Smart Home Model-0274,Electronics,Smart Home,SoundMax,1341.35,2856.68
+PROD00275,Trendora Kids Model-0275,Fashion,Kids,Trendora,1451.13,2171.96
+PROD00276,Bloom Haircare Model-0276,Beauty,Haircare,Bloom,2102.06,3036.96
+PROD00277,StreetNine Men Model-0277,Fashion,Men,StreetNine,6850.77,10547.98
+PROD00278,ZenLiving Appliances Model-0278,Home & Kitchen,Appliances,ZenLiving,1212.75,2187.34
+PROD00279,Bloom Makeup Model-0279,Beauty,Makeup,Bloom,339.5,642.76
+PROD00280,Bloom Haircare Model-0280,Beauty,Haircare,Bloom,519.8,1045.16
+PROD00281,ZenLiving Decor Model-0281,Home & Kitchen,Decor,ZenLiving,1201.74,1501.9
+PROD00282,FitCore Running Model-0282,Sports,Running,FitCore,638.24,788.6
+PROD00283,FlexGear Outdoor Model-0283,Sports,Outdoor,FlexGear,1709.43,2247.94
+PROD00284,StreetNine Men Model-0284,Fashion,Men,StreetNine,105.35,211.59
+PROD00285,ActivePro Yoga Model-0285,Sports,Yoga,ActivePro,1086.07,1922.45
+PROD00286,HomeNest Storage Model-0286,Home & Kitchen,Storage,HomeNest,498.76,1024.92
+PROD00287,Bloom Personal Care Model-0287,Beauty,Personal Care,Bloom,295.03,535.4
+PROD00288,NovaTech Mobiles Model-0288,Electronics,Mobiles,NovaTech,3590.19,6527.34
+PROD00289,Voltix Smart Home Model-0289,Electronics,Smart Home,Voltix,593.22,1011.59
+PROD00290,FlexGear Running Model-0290,Sports,Running,FlexGear,538.22,1061.42
+PROD00291,GlowLab Fragrance Model-0291,Beauty,Fragrance,GlowLab,1568.63,3363.53
+PROD00292,Viva Men Model-0292,Fashion,Men,Viva,848.72,1615.71
+PROD00293,Viva Women Model-0293,Fashion,Women,Viva,1433.65,1936.93
+PROD00294,UrbanWeave Accessories Model-0294,Fashion,Accessories,UrbanWeave,3464.32,4904.9
+PROD00295,Trendora Kids Model-0295,Fashion,Kids,Trendora,657.09,1299.91
+PROD00296,PureAura Makeup Model-0296,Beauty,Makeup,PureAura,401.47,768.64
+PROD00297,ActivePro Team Sports Model-0297,Sports,Team Sports,ActivePro,1074.25,2072.68
+PROD00298,Voltix Mobiles Model-0298,Electronics,Mobiles,Voltix,2305.83,3746.43
+PROD00299,ZenLiving Decor Model-0299,Home & Kitchen,Decor,ZenLiving,1061.1,1370.62
+PROD00300,HomeNest Appliances Model-0300,Home & Kitchen,Appliances,HomeNest,245.04,505.36
+PROD00301,CookCraft Storage Model-0301,Home & Kitchen,Storage,CookCraft,1132.49,2118.22
+PROD00302,Voltix Mobiles Model-0302,Electronics,Mobiles,Voltix,615.65,908.5
+PROD00303,BrightHome Storage Model-0303,Home & Kitchen,Storage,BrightHome,1099.91,1574.58
+PROD00304,ZenLiving Kitchen Model-0304,Home & Kitchen,Kitchen,ZenLiving,741.7,1036.15
+PROD00305,BrightHome Furniture Model-0305,Home & Kitchen,Furniture,BrightHome,2078.63,3268.0
+PROD00306,CookCraft Appliances Model-0306,Home & Kitchen,Appliances,CookCraft,265.73,455.09
+PROD00307,HomeNest Appliances Model-0307,Home & Kitchen,Appliances,HomeNest,249.04,455.11
+PROD00308,RunX Yoga Model-0308,Sports,Yoga,RunX,809.97,1452.15
+PROD00309,UrbanWeave Accessories Model-0309,Fashion,Accessories,UrbanWeave,574.69,1080.92
+PROD00310,Astra Smart Home Model-0310,Electronics,Smart Home,Astra,5330.29,9597.78
+PROD00311,ZenLiving Decor Model-0311,Home & Kitchen,Decor,ZenLiving,2196.41,3635.19
+PROD00312,ModeHub Kids Model-0312,Fashion,Kids,ModeHub,2474.92,3145.51
+PROD00313,HomeNest Decor Model-0313,Home & Kitchen,Decor,HomeNest,980.6,1455.46
+PROD00314,Bloom Personal Care Model-0314,Beauty,Personal Care,Bloom,1410.61,2902.3
+PROD00315,PureAura Skincare Model-0315,Beauty,Skincare,PureAura,1314.88,1721.81
+PROD00316,StreetNine Women Model-0316,Fashion,Women,StreetNine,1107.83,2063.83
+PROD00317,CasaPlus Appliances Model-0317,Home & Kitchen,Appliances,CasaPlus,738.77,1042.82
+PROD00318,PureAura Personal Care Model-0318,Beauty,Personal Care,PureAura,631.35,1225.13
+PROD00319,PixelPro Accessories Model-0319,Electronics,Accessories,PixelPro,4291.91,5227.71
+PROD00320,GlowLab Personal Care Model-0320,Beauty,Personal Care,GlowLab,1328.2,2372.04
+PROD00321,Trendora Footwear Model-0321,Fashion,Footwear,Trendora,223.98,318.81
+PROD00322,FitCore Team Sports Model-0322,Sports,Team Sports,FitCore,225.09,330.55
+PROD00323,BrightHome Furniture Model-0323,Home & Kitchen,Furniture,BrightHome,773.99,1126.66
+PROD00324,Viva Kids Model-0324,Fashion,Kids,Viva,275.41,383.14
+PROD00325,GlowLab Skincare Model-0325,Beauty,Skincare,GlowLab,3134.85,6841.87
+PROD00326,FitCore Yoga Model-0326,Sports,Yoga,FitCore,345.5,665.74
+PROD00327,FlexGear Running Model-0327,Sports,Running,FlexGear,470.28,638.54
+PROD00328,RunX Team Sports Model-0328,Sports,Team Sports,RunX,1078.73,2277.8
+PROD00329,PeakMotion Yoga Model-0329,Sports,Yoga,PeakMotion,2927.38,4544.93
+PROD00330,PureAura Personal Care Model-0330,Beauty,Personal Care,PureAura,920.35,1422.01
+PROD00331,HomeNest Storage Model-0331,Home & Kitchen,Storage,HomeNest,1031.01,1792.09
+PROD00332,Trendora Men Model-0332,Fashion,Men,Trendora,608.1,1054.34
+PROD00333,BrightHome Decor Model-0333,Home & Kitchen,Decor,BrightHome,1738.62,2283.32
+PROD00334,FitCore Outdoor Model-0334,Sports,Outdoor,FitCore,72.67,147.5
+PROD00335,FlexGear Yoga Model-0335,Sports,Yoga,FlexGear,2162.79,2800.11
+PROD00336,ActivePro Yoga Model-0336,Sports,Yoga,ActivePro,1170.04,2404.6
+PROD00337,Bloom Personal Care Model-0337,Beauty,Personal Care,Bloom,614.85,834.83
+PROD00338,HomeNest Appliances Model-0338,Home & Kitchen,Appliances,HomeNest,780.91,1423.2
+PROD00339,FitCore Outdoor Model-0339,Sports,Outdoor,FitCore,429.1,895.53
+PROD00340,UrbanWeave Accessories Model-0340,Fashion,Accessories,UrbanWeave,859.54,1174.09
+PROD00341,Viva Footwear Model-0341,Fashion,Footwear,Viva,806.78,1278.82
+PROD00342,Voltix Accessories Model-0342,Electronics,Accessories,Voltix,1228.04,2196.46
+PROD00343,UrbanWeave Women Model-0343,Fashion,Women,UrbanWeave,514.28,843.06
+PROD00344,Viva Women Model-0344,Fashion,Women,Viva,714.54,871.65
+PROD00345,FlexGear Team Sports Model-0345,Sports,Team Sports,FlexGear,1264.24,2300.96
+PROD00346,BrightHome Kitchen Model-0346,Home & Kitchen,Kitchen,BrightHome,138.36,212.39
+PROD00347,ZenLiving Furniture Model-0347,Home & Kitchen,Furniture,ZenLiving,1452.92,1841.43
+PROD00348,HomeNest Storage Model-0348,Home & Kitchen,Storage,HomeNest,136.91,254.09
+PROD00349,ModeHub Accessories Model-0349,Fashion,Accessories,ModeHub,277.39,569.64
+PROD00350,PureAura Haircare Model-0350,Beauty,Haircare,PureAura,1938.5,3330.18
+PROD00351,UrbanWeave Accessories Model-0351,Fashion,Accessories,UrbanWeave,750.38,1168.91
+PROD00352,StreetNine Kids Model-0352,Fashion,Kids,StreetNine,1483.52,2774.06
+PROD00353,Trendora Footwear Model-0353,Fashion,Footwear,Trendora,859.86,1247.44
+PROD00354,Trendora Men Model-0354,Fashion,Men,Trendora,1816.9,2340.07
+PROD00355,FitCore Yoga Model-0355,Sports,Yoga,FitCore,2636.92,5142.11
+PROD00356,SoundMax Accessories Model-0356,Electronics,Accessories,SoundMax,660.37,947.77
+PROD00357,Voltix Audio Model-0357,Electronics,Audio,Voltix,42.03,78.66
+PROD00358,PureAura Personal Care Model-0358,Beauty,Personal Care,PureAura,1407.48,3066.81
+PROD00359,PeakMotion Outdoor Model-0359,Sports,Outdoor,PeakMotion,372.01,583.81
+PROD00360,ZenLiving Appliances Model-0360,Home & Kitchen,Appliances,ZenLiving,1585.86,3080.63
+PROD00361,CookCraft Appliances Model-0361,Home & Kitchen,Appliances,CookCraft,769.01,1077.04
+PROD00362,CookCraft Appliances Model-0362,Home & Kitchen,Appliances,CookCraft,1672.0,2156.27
+PROD00363,ActivePro Running Model-0363,Sports,Running,ActivePro,492.28,709.5
+PROD00364,CasaPlus Storage Model-0364,Home & Kitchen,Storage,CasaPlus,4996.93,6905.71
+PROD00365,VelvetSkin Skincare Model-0365,Beauty,Skincare,VelvetSkin,176.23,297.03
+PROD00366,ActivePro Team Sports Model-0366,Sports,Team Sports,ActivePro,841.26,1387.41
+PROD00367,Bloom Makeup Model-0367,Beauty,Makeup,Bloom,2209.43,3467.09
+PROD00368,Trendora Men Model-0368,Fashion,Men,Trendora,1830.92,3347.14
+PROD00369,RunX Yoga Model-0369,Sports,Yoga,RunX,629.37,1128.94
+PROD00370,RunX Outdoor Model-0370,Sports,Outdoor,RunX,352.29,717.37
+PROD00371,BrightHome Kitchen Model-0371,Home & Kitchen,Kitchen,BrightHome,1346.03,1674.18
+PROD00372,HomeNest Appliances Model-0372,Home & Kitchen,Appliances,HomeNest,1041.84,1874.56
+PROD00373,FitCore Team Sports Model-0373,Sports,Team Sports,FitCore,1478.17,3173.63
+PROD00374,ModeHub Accessories Model-0374,Fashion,Accessories,ModeHub,402.44,513.37
+PROD00375,FitCore Outdoor Model-0375,Sports,Outdoor,FitCore,673.69,823.04
+PROD00376,Trendora Women Model-0376,Fashion,Women,Trendora,813.84,1726.78
+PROD00377,CasaPlus Storage Model-0377,Home & Kitchen,Storage,CasaPlus,334.32,546.14
+PROD00378,Trendora Women Model-0378,Fashion,Women,Trendora,7202.96,10385.24
+PROD00379,UrbanWeave Men Model-0379,Fashion,Men,UrbanWeave,1105.42,2104.52
+PROD00380,Bloom Personal Care Model-0380,Beauty,Personal Care,Bloom,528.38,729.48
+PROD00381,ActivePro Team Sports Model-0381,Sports,Team Sports,ActivePro,180.73,219.93
+PROD00382,Viva Kids Model-0382,Fashion,Kids,Viva,426.91,538.31
+PROD00383,Astra Laptops Model-0383,Electronics,Laptops,Astra,349.28,631.3
+PROD00384,HomeNest Kitchen Model-0384,Home & Kitchen,Kitchen,HomeNest,938.8,1516.01
+PROD00385,UrbanWeave Accessories Model-0385,Fashion,Accessories,UrbanWeave,1696.28,2418.89
+PROD00386,NovaTech Accessories Model-0386,Electronics,Accessories,NovaTech,794.42,1020.19
+PROD00387,Trendora Footwear Model-0387,Fashion,Footwear,Trendora,1998.5,2893.76
+PROD00388,FlexGear Fitness Model-0388,Sports,Fitness,FlexGear,776.04,974.54
+PROD00389,VelvetSkin Personal Care Model-0389,Beauty,Personal Care,VelvetSkin,731.86,1481.81
+PROD00390,VelvetSkin Personal Care Model-0390,Beauty,Personal Care,VelvetSkin,1052.41,1378.15
+PROD00391,UrbanWeave Kids Model-0391,Fashion,Kids,UrbanWeave,434.75,810.55
+PROD00392,Bloom Makeup Model-0392,Beauty,Makeup,Bloom,638.49,996.72
+PROD00393,VelvetSkin Haircare Model-0393,Beauty,Haircare,VelvetSkin,1474.04,2257.23
+PROD00394,Bloom Haircare Model-0394,Beauty,Haircare,Bloom,236.79,497.3
+PROD00395,HomeNest Kitchen Model-0395,Home & Kitchen,Kitchen,HomeNest,347.43,548.94
+PROD00396,HomeNest Furniture Model-0396,Home & Kitchen,Furniture,HomeNest,346.03,625.7
+PROD00397,PureAura Fragrance Model-0397,Beauty,Fragrance,PureAura,634.71,1050.89
+PROD00398,PureAura Skincare Model-0398,Beauty,Skincare,PureAura,738.5,1097.91
+PROD00399,BrightHome Storage Model-0399,Home & Kitchen,Storage,BrightHome,162.76,293.4
+PROD00400,Astra Laptops Model-0400,Electronics,Laptops,Astra,1259.29,2114.35
+PROD00401,PureAura Haircare Model-0401,Beauty,Haircare,PureAura,702.18,914.79
+PROD00402,SoundMax Laptops Model-0402,Electronics,Laptops,SoundMax,1157.68,2050.18
+PROD00403,Viva Men Model-0403,Fashion,Men,Viva,883.69,1813.1
+PROD00404,Trendora Accessories Model-0404,Fashion,Accessories,Trendora,813.02,1700.8
+PROD00405,Trendora Accessories Model-0405,Fashion,Accessories,Trendora,618.78,944.54
+PROD00406,PureAura Personal Care Model-0406,Beauty,Personal Care,PureAura,3174.73,4528.62
+PROD00407,GlowLab Fragrance Model-0407,Beauty,Fragrance,GlowLab,550.44,809.87
+PROD00408,PureAura Personal Care Model-0408,Beauty,Personal Care,PureAura,1127.61,1401.88
+PROD00409,StreetNine Men Model-0409,Fashion,Men,StreetNine,1191.49,2338.17
+PROD00410,SoundMax Audio Model-0410,Electronics,Audio,SoundMax,264.6,489.62
+PROD00411,Bloom Fragrance Model-0411,Beauty,Fragrance,Bloom,593.1,828.38
+PROD00412,StreetNine Men Model-0412,Fashion,Men,StreetNine,534.28,1033.15
+PROD00413,FitCore Team Sports Model-0413,Sports,Team Sports,FitCore,1553.71,3207.8
+PROD00414,Bloom Personal Care Model-0414,Beauty,Personal Care,Bloom,421.15,698.67
+PROD00415,ActivePro Team Sports Model-0415,Sports,Team Sports,ActivePro,263.7,441.84
+PROD00416,BrightHome Kitchen Model-0416,Home & Kitchen,Kitchen,BrightHome,203.03,259.82
+PROD00417,NovaTech Laptops Model-0417,Electronics,Laptops,NovaTech,884.09,1068.07
+PROD00418,VelvetSkin Skincare Model-0418,Beauty,Skincare,VelvetSkin,769.5,1210.88
+PROD00419,BrightHome Storage Model-0419,Home & Kitchen,Storage,BrightHome,1341.01,2262.48
+PROD00420,Bloom Haircare Model-0420,Beauty,Haircare,Bloom,2923.9,4780.97
+PROD00421,CasaPlus Storage Model-0421,Home & Kitchen,Storage,CasaPlus,552.02,1051.82
+PROD00422,Bloom Skincare Model-0422,Beauty,Skincare,Bloom,3605.47,7873.72
+PROD00423,Astra Mobiles Model-0423,Electronics,Mobiles,Astra,2295.12,4089.98
+PROD00424,ActivePro Yoga Model-0424,Sports,Yoga,ActivePro,832.71,1248.32
+PROD00425,HomeNest Furniture Model-0425,Home & Kitchen,Furniture,HomeNest,1046.86,1620.25
+PROD00426,Voltix Laptops Model-0426,Electronics,Laptops,Voltix,230.06,291.52
+PROD00427,CookCraft Storage Model-0427,Home & Kitchen,Storage,CookCraft,480.12,893.7
+PROD00428,Bloom Fragrance Model-0428,Beauty,Fragrance,Bloom,1098.19,2153.39
+PROD00429,NovaTech Audio Model-0429,Electronics,Audio,NovaTech,414.13,856.82
+PROD00430,PixelPro Smart Home Model-0430,Electronics,Smart Home,PixelPro,212.68,386.02
+PROD00431,PeakMotion Team Sports Model-0431,Sports,Team Sports,PeakMotion,602.27,1295.13
+PROD00432,ModeHub Kids Model-0432,Fashion,Kids,ModeHub,240.39,506.78
+PROD00433,Viva Men Model-0433,Fashion,Men,Viva,1072.49,1342.03
+PROD00434,SoundMax Accessories Model-0434,Electronics,Accessories,SoundMax,546.06,904.12
+PROD00435,StreetNine Women Model-0435,Fashion,Women,StreetNine,480.97,782.73
+PROD00436,NovaTech Audio Model-0436,Electronics,Audio,NovaTech,359.39,493.61
+PROD00437,PeakMotion Fitness Model-0437,Sports,Fitness,PeakMotion,1828.5,3085.92
+PROD00438,Viva Accessories Model-0438,Fashion,Accessories,Viva,170.36,205.34
+PROD00439,Voltix Smart Home Model-0439,Electronics,Smart Home,Voltix,1512.91,2226.43
+PROD00440,StreetNine Accessories Model-0440,Fashion,Accessories,StreetNine,392.48,527.47
+PROD00441,Trendora Accessories Model-0441,Fashion,Accessories,Trendora,1469.53,2302.46
+PROD00442,Trendora Men Model-0442,Fashion,Men,Trendora,1577.29,2466.37
+PROD00443,StreetNine Footwear Model-0443,Fashion,Footwear,StreetNine,400.18,871.58
+PROD00444,CookCraft Appliances Model-0444,Home & Kitchen,Appliances,CookCraft,677.5,962.16
+PROD00445,FitCore Outdoor Model-0445,Sports,Outdoor,FitCore,153.62,260.42
+PROD00446,PureAura Personal Care Model-0446,Beauty,Personal Care,PureAura,8613.5,15182.17
+PROD00447,Bloom Haircare Model-0447,Beauty,Haircare,Bloom,833.21,1651.7
+PROD00448,SoundMax Mobiles Model-0448,Electronics,Mobiles,SoundMax,3537.48,7338.22
+PROD00449,Astra Laptops Model-0449,Electronics,Laptops,Astra,660.28,941.15
+PROD00450,SoundMax Smart Home Model-0450,Electronics,Smart Home,SoundMax,1400.5,2328.75
+PROD00451,FitCore Running Model-0451,Sports,Running,FitCore,6189.38,10433.54
+PROD00452,BrightHome Appliances Model-0452,Home & Kitchen,Appliances,BrightHome,2041.03,2450.06
+PROD00453,HomeNest Kitchen Model-0453,Home & Kitchen,Kitchen,HomeNest,455.49,948.16
+PROD00454,Voltix Laptops Model-0454,Electronics,Laptops,Voltix,558.98,773.1
+PROD00455,ModeHub Footwear Model-0455,Fashion,Footwear,ModeHub,1569.58,3278.98
+PROD00456,VelvetSkin Personal Care Model-0456,Beauty,Personal Care,VelvetSkin,203.49,302.4
+PROD00457,VelvetSkin Personal Care Model-0457,Beauty,Personal Care,VelvetSkin,1528.36,1908.58
+PROD00458,RunX Team Sports Model-0458,Sports,Team Sports,RunX,919.42,1982.49
+PROD00459,ZenLiving Kitchen Model-0459,Home & Kitchen,Kitchen,ZenLiving,448.05,764.86
+PROD00460,Voltix Audio Model-0460,Electronics,Audio,Voltix,696.17,1390.17
+PROD00461,ZenLiving Kitchen Model-0461,Home & Kitchen,Kitchen,ZenLiving,1183.65,2391.64
+PROD00462,NovaTech Laptops Model-0462,Electronics,Laptops,NovaTech,1360.15,1755.78
+PROD00463,FitCore Running Model-0463,Sports,Running,FitCore,342.05,578.12
+PROD00464,Trendora Footwear Model-0464,Fashion,Footwear,Trendora,383.54,733.82
+PROD00465,UrbanWeave Kids Model-0465,Fashion,Kids,UrbanWeave,281.02,444.88
+PROD00466,StreetNine Women Model-0466,Fashion,Women,StreetNine,1578.47,3394.54
+PROD00467,PixelPro Audio Model-0467,Electronics,Audio,PixelPro,143.22,251.98
+PROD00468,UrbanWeave Women Model-0468,Fashion,Women,UrbanWeave,1081.28,1919.03
+PROD00469,CasaPlus Furniture Model-0469,Home & Kitchen,Furniture,CasaPlus,145.53,202.77
+PROD00470,ZenLiving Appliances Model-0470,Home & Kitchen,Appliances,ZenLiving,210.11,430.53
+PROD00471,Astra Smart Home Model-0471,Electronics,Smart Home,Astra,208.95,397.44
+PROD00472,Trendora Men Model-0472,Fashion,Men,Trendora,1956.5,3305.51
+PROD00473,StreetNine Women Model-0473,Fashion,Women,StreetNine,1784.27,3012.56
+PROD00474,ActivePro Yoga Model-0474,Sports,Yoga,ActivePro,2492.62,4978.04
+PROD00475,RunX Fitness Model-0475,Sports,Fitness,RunX,400.15,860.07
+PROD00476,ActivePro Fitness Model-0476,Sports,Fitness,ActivePro,2127.8,3532.47
+PROD00477,UrbanWeave Kids Model-0477,Fashion,Kids,UrbanWeave,719.6,1134.47
+PROD00478,GlowLab Makeup Model-0478,Beauty,Makeup,GlowLab,3189.74,5457.48
+PROD00479,NovaTech Laptops Model-0479,Electronics,Laptops,NovaTech,715.58,888.53
+PROD00480,GlowLab Personal Care Model-0480,Beauty,Personal Care,GlowLab,1690.69,3113.19
+PROD00481,StreetNine Accessories Model-0481,Fashion,Accessories,StreetNine,4184.12,5815.35
+PROD00482,GlowLab Fragrance Model-0482,Beauty,Fragrance,GlowLab,515.39,775.39
+PROD00483,Voltix Smart Home Model-0483,Electronics,Smart Home,Voltix,1106.49,1337.92
+PROD00484,HomeNest Appliances Model-0484,Home & Kitchen,Appliances,HomeNest,2352.89,5072.3
+PROD00485,BrightHome Storage Model-0485,Home & Kitchen,Storage,BrightHome,2117.93,4189.43
+PROD00486,BrightHome Kitchen Model-0486,Home & Kitchen,Kitchen,BrightHome,508.62,1060.18
+PROD00487,SoundMax Smart Home Model-0487,Electronics,Smart Home,SoundMax,489.48,1052.47
+PROD00488,RunX Yoga Model-0488,Sports,Yoga,RunX,358.16,446.62
+PROD00489,CasaPlus Decor Model-0489,Home & Kitchen,Decor,CasaPlus,192.25,313.93
+PROD00490,Trendora Kids Model-0490,Fashion,Kids,Trendora,972.14,1377.09
+PROD00491,UrbanWeave Accessories Model-0491,Fashion,Accessories,UrbanWeave,1185.34,2349.66
+PROD00492,Bloom Skincare Model-0492,Beauty,Skincare,Bloom,2640.43,4769.73
+PROD00493,Astra Laptops Model-0493,Electronics,Laptops,Astra,1026.21,1969.24
+PROD00494,NovaTech Smart Home Model-0494,Electronics,Smart Home,NovaTech,2036.2,3081.98
+PROD00495,Voltix Accessories Model-0495,Electronics,Accessories,Voltix,1050.57,1713.01
+PROD00496,Astra Mobiles Model-0496,Electronics,Mobiles,Astra,2420.48,5286.78
+PROD00497,StreetNine Men Model-0497,Fashion,Men,StreetNine,428.83,782.5
+PROD00498,StreetNine Women Model-0498,Fashion,Women,StreetNine,259.49,382.02
+PROD00499,Viva Footwear Model-0499,Fashion,Footwear,Viva,1652.1,3569.83
+PROD00500,FitCore Team Sports Model-0500,Sports,Team Sports,FitCore,342.49,749.73
+PROD00501,HomeNest Appliances Model-0501,Home & Kitchen,Appliances,HomeNest,1347.11,1734.07
+PROD00502,Trendora Kids Model-0502,Fashion,Kids,Trendora,131.74,199.44
+PROD00503,ActivePro Fitness Model-0503,Sports,Fitness,ActivePro,1174.49,1508.75
+PROD00504,Viva Footwear Model-0504,Fashion,Footwear,Viva,2232.79,4576.83
+PROD00505,RunX Running Model-0505,Sports,Running,RunX,290.49,497.91
+PROD00506,UrbanWeave Women Model-0506,Fashion,Women,UrbanWeave,5299.54,9407.91
+PROD00507,PeakMotion Outdoor Model-0507,Sports,Outdoor,PeakMotion,10552.74,18360.59
+PROD00508,VelvetSkin Personal Care Model-0508,Beauty,Personal Care,VelvetSkin,712.65,1286.21
+PROD00509,NovaTech Accessories Model-0509,Electronics,Accessories,NovaTech,1568.4,3063.55
+PROD00510,BrightHome Storage Model-0510,Home & Kitchen,Storage,BrightHome,286.03,387.32
+PROD00511,Bloom Skincare Model-0511,Beauty,Skincare,Bloom,753.36,1280.48
+PROD00512,Viva Kids Model-0512,Fashion,Kids,Viva,1626.55,2337.17
+PROD00513,CasaPlus Decor Model-0513,Home & Kitchen,Decor,CasaPlus,2550.9,3915.15
+PROD00514,Viva Footwear Model-0514,Fashion,Footwear,Viva,302.66,536.44
+PROD00515,CasaPlus Appliances Model-0515,Home & Kitchen,Appliances,CasaPlus,311.19,461.3
+PROD00516,PureAura Skincare Model-0516,Beauty,Skincare,PureAura,594.46,765.79
+PROD00517,HomeNest Kitchen Model-0517,Home & Kitchen,Kitchen,HomeNest,1112.24,1650.8
+PROD00518,CasaPlus Kitchen Model-0518,Home & Kitchen,Kitchen,CasaPlus,892.41,1791.73
+PROD00519,SoundMax Accessories Model-0519,Electronics,Accessories,SoundMax,1237.73,1861.13
+PROD00520,UrbanWeave Footwear Model-0520,Fashion,Footwear,UrbanWeave,1694.76,3724.93
+PROD00521,Viva Accessories Model-0521,Fashion,Accessories,Viva,4998.11,6709.62
+PROD00522,PureAura Makeup Model-0522,Beauty,Makeup,PureAura,461.14,672.63
+PROD00523,Viva Footwear Model-0523,Fashion,Footwear,Viva,3207.12,5672.57
+PROD00524,Trendora Accessories Model-0524,Fashion,Accessories,Trendora,1908.64,2798.44
+PROD00525,Trendora Accessories Model-0525,Fashion,Accessories,Trendora,584.79,1096.17
+PROD00526,PureAura Makeup Model-0526,Beauty,Makeup,PureAura,731.11,1012.45
+PROD00527,ModeHub Men Model-0527,Fashion,Men,ModeHub,734.27,1020.63
+PROD00528,HomeNest Furniture Model-0528,Home & Kitchen,Furniture,HomeNest,611.89,1253.79
+PROD00529,RunX Fitness Model-0529,Sports,Fitness,RunX,1142.26,1583.56
+PROD00530,HomeNest Furniture Model-0530,Home & Kitchen,Furniture,HomeNest,456.7,619.02
+PROD00531,ActivePro Yoga Model-0531,Sports,Yoga,ActivePro,927.54,1586.0
+PROD00532,NovaTech Smart Home Model-0532,Electronics,Smart Home,NovaTech,1709.82,3421.25
+PROD00533,Astra Laptops Model-0533,Electronics,Laptops,Astra,891.54,1376.62
+PROD00534,ActivePro Team Sports Model-0534,Sports,Team Sports,ActivePro,893.07,1683.31
+PROD00535,HomeNest Appliances Model-0535,Home & Kitchen,Appliances,HomeNest,284.67,431.0
+PROD00536,Voltix Laptops Model-0536,Electronics,Laptops,Voltix,1152.63,2138.09
+PROD00537,SoundMax Accessories Model-0537,Electronics,Accessories,SoundMax,524.81,896.78
+PROD00538,UrbanWeave Footwear Model-0538,Fashion,Footwear,UrbanWeave,1345.3,2811.45
+PROD00539,Viva Footwear Model-0539,Fashion,Footwear,Viva,226.62,475.8
+PROD00540,CookCraft Kitchen Model-0540,Home & Kitchen,Kitchen,CookCraft,575.32,1014.26
+PROD00541,Astra Mobiles Model-0541,Electronics,Mobiles,Astra,465.27,745.97
+PROD00542,GlowLab Skincare Model-0542,Beauty,Skincare,GlowLab,1835.54,3355.85
+PROD00543,Luma Haircare Model-0543,Beauty,Haircare,Luma,761.94,1520.48
+PROD00544,PureAura Personal Care Model-0544,Beauty,Personal Care,PureAura,456.82,765.68
+PROD00545,GlowLab Fragrance Model-0545,Beauty,Fragrance,GlowLab,3781.38,7911.06
+PROD00546,FitCore Fitness Model-0546,Sports,Fitness,FitCore,1555.37,2342.77
+PROD00547,BrightHome Kitchen Model-0547,Home & Kitchen,Kitchen,BrightHome,151.99,243.05
+PROD00548,SoundMax Smart Home Model-0548,Electronics,Smart Home,SoundMax,3773.08,7838.56
+PROD00549,GlowLab Haircare Model-0549,Beauty,Haircare,GlowLab,1921.33,2706.64
+PROD00550,BrightHome Furniture Model-0550,Home & Kitchen,Furniture,BrightHome,172.84,374.15
+PROD00551,Trendora Accessories Model-0551,Fashion,Accessories,Trendora,2710.33,3567.2
+PROD00552,NovaTech Laptops Model-0552,Electronics,Laptops,NovaTech,88.0,159.39
+PROD00553,NovaTech Audio Model-0553,Electronics,Audio,NovaTech,241.82,421.8
+PROD00554,SoundMax Mobiles Model-0554,Electronics,Mobiles,SoundMax,73.67,95.0
+PROD00555,BrightHome Appliances Model-0555,Home & Kitchen,Appliances,BrightHome,5573.36,11164.93
+PROD00556,FitCore Fitness Model-0556,Sports,Fitness,FitCore,1943.77,3472.52
+PROD00557,StreetNine Women Model-0557,Fashion,Women,StreetNine,2153.41,3759.62
+PROD00558,Bloom Makeup Model-0558,Beauty,Makeup,Bloom,637.77,1101.62
+PROD00559,SoundMax Laptops Model-0559,Electronics,Laptops,SoundMax,4282.93,8090.86
+PROD00560,PeakMotion Outdoor Model-0560,Sports,Outdoor,PeakMotion,79.33,168.48
+PROD00561,Astra Accessories Model-0561,Electronics,Accessories,Astra,913.1,1565.36
+PROD00562,PixelPro Accessories Model-0562,Electronics,Accessories,PixelPro,470.1,687.49
+PROD00563,ModeHub Women Model-0563,Fashion,Women,ModeHub,369.09,616.32
+PROD00564,Trendora Women Model-0564,Fashion,Women,Trendora,904.03,1785.02
+PROD00565,CookCraft Appliances Model-0565,Home & Kitchen,Appliances,CookCraft,1163.67,2201.74
+PROD00566,Viva Footwear Model-0566,Fashion,Footwear,Viva,384.61,775.52
+PROD00567,UrbanWeave Accessories Model-0567,Fashion,Accessories,UrbanWeave,413.6,540.51
+PROD00568,PixelPro Smart Home Model-0568,Electronics,Smart Home,PixelPro,2775.1,6054.92
+PROD00569,BrightHome Furniture Model-0569,Home & Kitchen,Furniture,BrightHome,252.86,491.77
+PROD00570,SoundMax Accessories Model-0570,Electronics,Accessories,SoundMax,570.69,1045.32
+PROD00571,Luma Fragrance Model-0571,Beauty,Fragrance,Luma,2659.48,3901.85
+PROD00572,ActivePro Running Model-0572,Sports,Running,ActivePro,7646.38,14105.4
+PROD00573,FlexGear Running Model-0573,Sports,Running,FlexGear,3146.06,6005.53
+PROD00574,FitCore Team Sports Model-0574,Sports,Team Sports,FitCore,2819.96,4716.54
+PROD00575,PixelPro Audio Model-0575,Electronics,Audio,PixelPro,1577.97,2085.23
+PROD00576,SoundMax Mobiles Model-0576,Electronics,Mobiles,SoundMax,287.69,617.13
+PROD00577,Trendora Women Model-0577,Fashion,Women,Trendora,964.17,1477.98
+PROD00578,FitCore Yoga Model-0578,Sports,Yoga,FitCore,220.22,478.84
+PROD00579,SoundMax Laptops Model-0579,Electronics,Laptops,SoundMax,350.15,760.19
+PROD00580,PeakMotion Team Sports Model-0580,Sports,Team Sports,PeakMotion,1876.77,2533.49
+PROD00581,ModeHub Men Model-0581,Fashion,Men,ModeHub,3264.81,4589.96
+PROD00582,Luma Skincare Model-0582,Beauty,Skincare,Luma,3328.83,5871.35
+PROD00583,CookCraft Kitchen Model-0583,Home & Kitchen,Kitchen,CookCraft,2815.37,3917.27
+PROD00584,SoundMax Smart Home Model-0584,Electronics,Smart Home,SoundMax,1418.94,2356.18
+PROD00585,CasaPlus Storage Model-0585,Home & Kitchen,Storage,CasaPlus,416.63,832.23
+PROD00586,GlowLab Haircare Model-0586,Beauty,Haircare,GlowLab,491.42,867.04
+PROD00587,Voltix Smart Home Model-0587,Electronics,Smart Home,Voltix,1982.66,2540.46
+PROD00588,Trendora Kids Model-0588,Fashion,Kids,Trendora,2483.55,5458.12
+PROD00589,RunX Yoga Model-0589,Sports,Yoga,RunX,606.75,942.11
+PROD00590,FlexGear Team Sports Model-0590,Sports,Team Sports,FlexGear,2568.44,3468.02
+PROD00591,SoundMax Accessories Model-0591,Electronics,Accessories,SoundMax,1196.02,2594.33
+PROD00592,CasaPlus Furniture Model-0592,Home & Kitchen,Furniture,CasaPlus,195.09,245.45
+PROD00593,PeakMotion Yoga Model-0593,Sports,Yoga,PeakMotion,983.8,1591.38
+PROD00594,Viva Women Model-0594,Fashion,Women,Viva,2314.56,4670.27
+PROD00595,Trendora Accessories Model-0595,Fashion,Accessories,Trendora,353.88,600.92
+PROD00596,ModeHub Footwear Model-0596,Fashion,Footwear,ModeHub,217.14,295.43
+PROD00597,Astra Mobiles Model-0597,Electronics,Mobiles,Astra,1354.22,1933.47
+PROD00598,PureAura Haircare Model-0598,Beauty,Haircare,PureAura,99.22,154.68
+PROD00599,PixelPro Audio Model-0599,Electronics,Audio,PixelPro,1326.62,2449.48
+PROD00600,Viva Kids Model-0600,Fashion,Kids,Viva,129.03,241.74
+PROD00601,PureAura Skincare Model-0601,Beauty,Skincare,PureAura,510.26,866.79
+PROD00602,FitCore Outdoor Model-0602,Sports,Outdoor,FitCore,370.43,692.32
+PROD00603,PixelPro Audio Model-0603,Electronics,Audio,PixelPro,1046.53,1332.94
+PROD00604,NovaTech Smart Home Model-0604,Electronics,Smart Home,NovaTech,323.06,574.99
+PROD00605,Astra Mobiles Model-0605,Electronics,Mobiles,Astra,267.13,413.29
+PROD00606,PureAura Skincare Model-0606,Beauty,Skincare,PureAura,2136.8,3750.17
+PROD00607,StreetNine Men Model-0607,Fashion,Men,StreetNine,440.66,541.2
+PROD00608,BrightHome Appliances Model-0608,Home & Kitchen,Appliances,BrightHome,165.66,221.21
+PROD00609,PixelPro Smart Home Model-0609,Electronics,Smart Home,PixelPro,774.86,1394.58
+PROD00610,HomeNest Furniture Model-0610,Home & Kitchen,Furniture,HomeNest,855.29,1402.85
+PROD00611,ModeHub Men Model-0611,Fashion,Men,ModeHub,1338.18,2069.23
+PROD00612,VelvetSkin Fragrance Model-0612,Beauty,Fragrance,VelvetSkin,1655.33,2065.27
+PROD00613,BrightHome Kitchen Model-0613,Home & Kitchen,Kitchen,BrightHome,1133.59,2376.32
+PROD00614,NovaTech Laptops Model-0614,Electronics,Laptops,NovaTech,1681.75,2223.84
+PROD00615,PeakMotion Outdoor Model-0615,Sports,Outdoor,PeakMotion,3946.53,5447.81
+PROD00616,CookCraft Decor Model-0616,Home & Kitchen,Decor,CookCraft,2453.83,4246.17
+PROD00617,Trendora Accessories Model-0617,Fashion,Accessories,Trendora,1805.5,2234.96
+PROD00618,PixelPro Smart Home Model-0618,Electronics,Smart Home,PixelPro,3312.88,6319.91
+PROD00619,NovaTech Laptops Model-0619,Electronics,Laptops,NovaTech,6899.1,11378.7
+PROD00620,VelvetSkin Skincare Model-0620,Beauty,Skincare,VelvetSkin,898.01,1932.17
+PROD00621,Luma Fragrance Model-0621,Beauty,Fragrance,Luma,1608.64,2951.66
+PROD00622,FitCore Running Model-0622,Sports,Running,FitCore,1066.45,2081.27
+PROD00623,ActivePro Yoga Model-0623,Sports,Yoga,ActivePro,624.37,860.23
+PROD00624,HomeNest Storage Model-0624,Home & Kitchen,Storage,HomeNest,735.31,1395.09
+PROD00625,SoundMax Laptops Model-0625,Electronics,Laptops,SoundMax,888.92,1616.3
+PROD00626,SoundMax Laptops Model-0626,Electronics,Laptops,SoundMax,447.28,876.53
+PROD00627,StreetNine Men Model-0627,Fashion,Men,StreetNine,2403.8,5175.64
+PROD00628,Astra Accessories Model-0628,Electronics,Accessories,Astra,612.03,1044.04
+PROD00629,Astra Smart Home Model-0629,Electronics,Smart Home,Astra,766.9,1170.99
+PROD00630,Luma Skincare Model-0630,Beauty,Skincare,Luma,2401.54,3306.21
+PROD00631,VelvetSkin Makeup Model-0631,Beauty,Makeup,VelvetSkin,2109.61,2702.79
+PROD00632,CookCraft Kitchen Model-0632,Home & Kitchen,Kitchen,CookCraft,1603.05,2565.01
+PROD00633,Trendora Accessories Model-0633,Fashion,Accessories,Trendora,480.99,725.71
+PROD00634,SoundMax Mobiles Model-0634,Electronics,Mobiles,SoundMax,2349.98,4502.28
+PROD00635,Bloom Personal Care Model-0635,Beauty,Personal Care,Bloom,431.24,617.3
+PROD00636,VelvetSkin Fragrance Model-0636,Beauty,Fragrance,VelvetSkin,2026.57,3606.45
+PROD00637,CookCraft Appliances Model-0637,Home & Kitchen,Appliances,CookCraft,472.0,871.47
+PROD00638,BrightHome Storage Model-0638,Home & Kitchen,Storage,BrightHome,688.36,1015.25
+PROD00639,Viva Footwear Model-0639,Fashion,Footwear,Viva,952.67,1370.92
+PROD00640,UrbanWeave Accessories Model-0640,Fashion,Accessories,UrbanWeave,933.61,1640.88
+PROD00641,SoundMax Mobiles Model-0641,Electronics,Mobiles,SoundMax,902.6,1849.01
+PROD00642,BrightHome Storage Model-0642,Home & Kitchen,Storage,BrightHome,1532.62,2355.96
+PROD00643,StreetNine Kids Model-0643,Fashion,Kids,StreetNine,1697.19,2788.78
+PROD00644,NovaTech Accessories Model-0644,Electronics,Accessories,NovaTech,141.97,181.53
+PROD00645,PeakMotion Fitness Model-0645,Sports,Fitness,PeakMotion,1519.02,3130.82
+PROD00646,FitCore Outdoor Model-0646,Sports,Outdoor,FitCore,392.47,593.05
+PROD00647,Voltix Mobiles Model-0647,Electronics,Mobiles,Voltix,706.38,1431.06
+PROD00648,Astra Smart Home Model-0648,Electronics,Smart Home,Astra,521.96,751.39
+PROD00649,Luma Fragrance Model-0649,Beauty,Fragrance,Luma,475.75,759.58
+PROD00650,RunX Fitness Model-0650,Sports,Fitness,RunX,483.78,908.19
+PROD00651,PureAura Haircare Model-0651,Beauty,Haircare,PureAura,2009.97,2541.28
+PROD00652,NovaTech Mobiles Model-0652,Electronics,Mobiles,NovaTech,2038.95,2582.14
+PROD00653,ZenLiving Appliances Model-0653,Home & Kitchen,Appliances,ZenLiving,1691.53,3280.66
+PROD00654,Astra Smart Home Model-0654,Electronics,Smart Home,Astra,2143.62,3805.71
+PROD00655,ZenLiving Kitchen Model-0655,Home & Kitchen,Kitchen,ZenLiving,3169.55,6004.95
+PROD00656,FlexGear Yoga Model-0656,Sports,Yoga,FlexGear,534.97,964.64
+PROD00657,NovaTech Accessories Model-0657,Electronics,Accessories,NovaTech,972.72,1470.63
+PROD00658,ZenLiving Appliances Model-0658,Home & Kitchen,Appliances,ZenLiving,351.99,545.53
+PROD00659,PixelPro Laptops Model-0659,Electronics,Laptops,PixelPro,2610.93,3981.67
+PROD00660,Trendora Kids Model-0660,Fashion,Kids,Trendora,1415.69,2743.95
+PROD00661,Trendora Kids Model-0661,Fashion,Kids,Trendora,1838.74,3565.19
+PROD00662,PixelPro Smart Home Model-0662,Electronics,Smart Home,PixelPro,442.15,890.87
+PROD00663,Astra Accessories Model-0663,Electronics,Accessories,Astra,166.37,252.25
+PROD00664,Astra Laptops Model-0664,Electronics,Laptops,Astra,1906.16,2493.81
+PROD00665,PeakMotion Running Model-0665,Sports,Running,PeakMotion,258.19,552.79
+PROD00666,Viva Kids Model-0666,Fashion,Kids,Viva,701.42,1461.8
+PROD00667,SoundMax Accessories Model-0667,Electronics,Accessories,SoundMax,875.66,1386.02
+PROD00668,PixelPro Audio Model-0668,Electronics,Audio,PixelPro,1239.64,1635.23
+PROD00669,SoundMax Audio Model-0669,Electronics,Audio,SoundMax,1758.48,2653.34
+PROD00670,FlexGear Outdoor Model-0670,Sports,Outdoor,FlexGear,699.99,1504.69
+PROD00671,ZenLiving Storage Model-0671,Home & Kitchen,Storage,ZenLiving,102.61,169.77
+PROD00672,ModeHub Kids Model-0672,Fashion,Kids,ModeHub,64.7,97.85
+PROD00673,RunX Outdoor Model-0673,Sports,Outdoor,RunX,1432.55,2914.13
+PROD00674,NovaTech Audio Model-0674,Electronics,Audio,NovaTech,685.16,1496.83
+PROD00675,BrightHome Kitchen Model-0675,Home & Kitchen,Kitchen,BrightHome,501.9,764.68
+PROD00676,Voltix Audio Model-0676,Electronics,Audio,Voltix,1000.63,1594.91
+PROD00677,FlexGear Outdoor Model-0677,Sports,Outdoor,FlexGear,1623.56,3401.35
+PROD00678,Astra Audio Model-0678,Electronics,Audio,Astra,1353.85,1648.01
+PROD00679,StreetNine Kids Model-0679,Fashion,Kids,StreetNine,302.6,494.95
+PROD00680,Voltix Smart Home Model-0680,Electronics,Smart Home,Voltix,549.42,982.8
+PROD00681,ZenLiving Appliances Model-0681,Home & Kitchen,Appliances,ZenLiving,1054.75,1704.42
+PROD00682,BrightHome Storage Model-0682,Home & Kitchen,Storage,BrightHome,143.47,193.21
+PROD00683,RunX Outdoor Model-0683,Sports,Outdoor,RunX,169.7,245.94
+PROD00684,Viva Footwear Model-0684,Fashion,Footwear,Viva,2302.64,4954.39
+PROD00685,Voltix Mobiles Model-0685,Electronics,Mobiles,Voltix,836.06,1467.26
+PROD00686,Luma Fragrance Model-0686,Beauty,Fragrance,Luma,1093.63,1619.25
+PROD00687,ActivePro Yoga Model-0687,Sports,Yoga,ActivePro,690.49,1419.38
+PROD00688,Luma Fragrance Model-0688,Beauty,Fragrance,Luma,770.84,1355.02
+PROD00689,StreetNine Footwear Model-0689,Fashion,Footwear,StreetNine,717.78,1107.89
+PROD00690,BrightHome Furniture Model-0690,Home & Kitchen,Furniture,BrightHome,248.6,422.31
+PROD00691,VelvetSkin Makeup Model-0691,Beauty,Makeup,VelvetSkin,573.73,1231.29
+PROD00692,Voltix Accessories Model-0692,Electronics,Accessories,Voltix,3115.56,4210.96
+PROD00693,GlowLab Makeup Model-0693,Beauty,Makeup,GlowLab,1104.02,2379.02
+PROD00694,CasaPlus Appliances Model-0694,Home & Kitchen,Appliances,CasaPlus,1172.61,2399.14
+PROD00695,SoundMax Smart Home Model-0695,Electronics,Smart Home,SoundMax,1413.35,2737.89
+PROD00696,Bloom Haircare Model-0696,Beauty,Haircare,Bloom,2770.68,5967.57
+PROD00697,StreetNine Women Model-0697,Fashion,Women,StreetNine,623.88,1068.98
+PROD00698,PureAura Makeup Model-0698,Beauty,Makeup,PureAura,399.18,494.72
+PROD00699,SoundMax Audio Model-0699,Electronics,Audio,SoundMax,895.75,1428.33
+PROD00700,CookCraft Storage Model-0700,Home & Kitchen,Storage,CookCraft,408.64,755.46
+PROD00701,FitCore Yoga Model-0701,Sports,Yoga,FitCore,3322.87,4239.43
+PROD00702,Luma Haircare Model-0702,Beauty,Haircare,Luma,4400.23,9450.45
+PROD00703,PureAura Skincare Model-0703,Beauty,Skincare,PureAura,1441.41,2490.67
+PROD00704,Trendora Accessories Model-0704,Fashion,Accessories,Trendora,3704.56,5953.95
+PROD00705,Voltix Mobiles Model-0705,Electronics,Mobiles,Voltix,605.14,1326.1
+PROD00706,SoundMax Smart Home Model-0706,Electronics,Smart Home,SoundMax,1312.49,2393.87
+PROD00707,FitCore Team Sports Model-0707,Sports,Team Sports,FitCore,1170.83,1709.93
+PROD00708,BrightHome Furniture Model-0708,Home & Kitchen,Furniture,BrightHome,757.66,1370.45
+PROD00709,BrightHome Storage Model-0709,Home & Kitchen,Storage,BrightHome,748.74,1230.66
+PROD00710,NovaTech Accessories Model-0710,Electronics,Accessories,NovaTech,1208.19,1999.23
+PROD00711,PixelPro Laptops Model-0711,Electronics,Laptops,PixelPro,1411.02,2395.86
+PROD00712,FitCore Yoga Model-0712,Sports,Yoga,FitCore,1775.75,3030.42
+PROD00713,Luma Fragrance Model-0713,Beauty,Fragrance,Luma,467.01,818.14
+PROD00714,ModeHub Accessories Model-0714,Fashion,Accessories,ModeHub,2475.77,5158.81
+PROD00715,CasaPlus Furniture Model-0715,Home & Kitchen,Furniture,CasaPlus,150.77,311.86
+PROD00716,Astra Laptops Model-0716,Electronics,Laptops,Astra,332.89,548.36
+PROD00717,ZenLiving Decor Model-0717,Home & Kitchen,Decor,ZenLiving,651.63,1282.51
+PROD00718,CookCraft Appliances Model-0718,Home & Kitchen,Appliances,CookCraft,3942.28,5791.09
+PROD00719,Viva Accessories Model-0719,Fashion,Accessories,Viva,4036.98,5649.76
+PROD00720,Voltix Smart Home Model-0720,Electronics,Smart Home,Voltix,1162.92,1422.57
+PROD00721,StreetNine Footwear Model-0721,Fashion,Footwear,StreetNine,1072.19,1883.02
+PROD00722,Trendora Women Model-0722,Fashion,Women,Trendora,665.59,1142.33
+PROD00723,Astra Accessories Model-0723,Electronics,Accessories,Astra,451.38,836.23
+PROD00724,Bloom Fragrance Model-0724,Beauty,Fragrance,Bloom,212.4,278.47
+PROD00725,FlexGear Team Sports Model-0725,Sports,Team Sports,FlexGear,639.67,1081.84
+PROD00726,Viva Accessories Model-0726,Fashion,Accessories,Viva,2220.38,3299.7
+PROD00727,Astra Accessories Model-0727,Electronics,Accessories,Astra,1216.64,1893.77
+PROD00728,VelvetSkin Haircare Model-0728,Beauty,Haircare,VelvetSkin,1905.74,3683.97
+PROD00729,Viva Kids Model-0729,Fashion,Kids,Viva,84.02,117.9
+PROD00730,Voltix Accessories Model-0730,Electronics,Accessories,Voltix,152.76,205.01
+PROD00731,Trendora Kids Model-0731,Fashion,Kids,Trendora,871.58,1427.11
+PROD00732,ZenLiving Furniture Model-0732,Home & Kitchen,Furniture,ZenLiving,618.61,996.02
+PROD00733,StreetNine Men Model-0733,Fashion,Men,StreetNine,390.43,686.87
+PROD00734,Voltix Audio Model-0734,Electronics,Audio,Voltix,965.73,1445.18
+PROD00735,Bloom Fragrance Model-0735,Beauty,Fragrance,Bloom,370.72,486.64
+PROD00736,StreetNine Kids Model-0736,Fashion,Kids,StreetNine,916.27,1612.02
+PROD00737,FlexGear Yoga Model-0737,Sports,Yoga,FlexGear,583.22,815.32
+PROD00738,Astra Audio Model-0738,Electronics,Audio,Astra,1397.45,2074.51
+PROD00739,UrbanWeave Accessories Model-0739,Fashion,Accessories,UrbanWeave,96.47,188.92
+PROD00740,BrightHome Decor Model-0740,Home & Kitchen,Decor,BrightHome,802.67,1243.09
+PROD00741,NovaTech Laptops Model-0741,Electronics,Laptops,NovaTech,1650.66,2650.51
+PROD00742,PureAura Skincare Model-0742,Beauty,Skincare,PureAura,3340.51,4206.78
+PROD00743,CookCraft Storage Model-0743,Home & Kitchen,Storage,CookCraft,1156.44,2294.59
+PROD00744,UrbanWeave Women Model-0744,Fashion,Women,UrbanWeave,1301.8,1571.93
+PROD00745,PixelPro Mobiles Model-0745,Electronics,Mobiles,PixelPro,1017.28,2148.76
+PROD00746,Trendora Accessories Model-0746,Fashion,Accessories,Trendora,254.87,423.55
+PROD00747,PeakMotion Yoga Model-0747,Sports,Yoga,PeakMotion,3015.57,4699.99
+PROD00748,PeakMotion Team Sports Model-0748,Sports,Team Sports,PeakMotion,1003.25,1470.04
+PROD00749,NovaTech Smart Home Model-0749,Electronics,Smart Home,NovaTech,3558.56,4686.73
+PROD00750,ZenLiving Furniture Model-0750,Home & Kitchen,Furniture,ZenLiving,2117.75,4075.18
+PROD00751,FlexGear Yoga Model-0751,Sports,Yoga,FlexGear,220.55,433.85
+PROD00752,CookCraft Decor Model-0752,Home & Kitchen,Decor,CookCraft,944.51,1384.76
+PROD00753,Viva Kids Model-0753,Fashion,Kids,Viva,412.43,755.05
+PROD00754,Trendora Accessories Model-0754,Fashion,Accessories,Trendora,1956.69,2444.24
+PROD00755,FitCore Running Model-0755,Sports,Running,FitCore,926.87,1732.95
+PROD00756,GlowLab Fragrance Model-0756,Beauty,Fragrance,GlowLab,82.37,157.23
+PROD00757,RunX Outdoor Model-0757,Sports,Outdoor,RunX,955.75,2102.02
+PROD00758,FitCore Fitness Model-0758,Sports,Fitness,FitCore,2048.65,4006.48
+PROD00759,HomeNest Appliances Model-0759,Home & Kitchen,Appliances,HomeNest,1496.85,2196.05
+PROD00760,GlowLab Haircare Model-0760,Beauty,Haircare,GlowLab,5501.08,8391.53
+PROD00761,RunX Yoga Model-0761,Sports,Yoga,RunX,1147.59,2426.19
+PROD00762,Trendora Footwear Model-0762,Fashion,Footwear,Trendora,254.75,337.13
+PROD00763,ModeHub Women Model-0763,Fashion,Women,ModeHub,159.17,216.89
+PROD00764,UrbanWeave Kids Model-0764,Fashion,Kids,UrbanWeave,759.02,1404.22
+PROD00765,BrightHome Storage Model-0765,Home & Kitchen,Storage,BrightHome,779.71,1314.36
+PROD00766,CookCraft Appliances Model-0766,Home & Kitchen,Appliances,CookCraft,795.77,1446.78
+PROD00767,SoundMax Audio Model-0767,Electronics,Audio,SoundMax,1742.68,2863.43
+PROD00768,CookCraft Furniture Model-0768,Home & Kitchen,Furniture,CookCraft,2160.5,4030.08
+PROD00769,CookCraft Storage Model-0769,Home & Kitchen,Storage,CookCraft,1782.64,2647.35
+PROD00770,ModeHub Kids Model-0770,Fashion,Kids,ModeHub,1898.76,2684.13
+PROD00771,CasaPlus Storage Model-0771,Home & Kitchen,Storage,CasaPlus,1316.24,2304.29
+PROD00772,FitCore Yoga Model-0772,Sports,Yoga,FitCore,588.7,1281.5
+PROD00773,StreetNine Accessories Model-0773,Fashion,Accessories,StreetNine,152.0,311.79
+PROD00774,ModeHub Footwear Model-0774,Fashion,Footwear,ModeHub,2959.49,6112.68
+PROD00775,GlowLab Makeup Model-0775,Beauty,Makeup,GlowLab,1297.96,2668.69
+PROD00776,Voltix Audio Model-0776,Electronics,Audio,Voltix,203.81,257.21
+PROD00777,ModeHub Accessories Model-0777,Fashion,Accessories,ModeHub,3604.37,4687.16
+PROD00778,PureAura Fragrance Model-0778,Beauty,Fragrance,PureAura,249.34,355.83
+PROD00779,BrightHome Kitchen Model-0779,Home & Kitchen,Kitchen,BrightHome,346.76,560.36
+PROD00780,VelvetSkin Personal Care Model-0780,Beauty,Personal Care,VelvetSkin,463.18,642.37
+PROD00781,BrightHome Appliances Model-0781,Home & Kitchen,Appliances,BrightHome,460.75,640.9
+PROD00782,Astra Audio Model-0782,Electronics,Audio,Astra,449.34,830.73
+PROD00783,UrbanWeave Kids Model-0783,Fashion,Kids,UrbanWeave,791.5,1617.72
+PROD00784,ZenLiving Kitchen Model-0784,Home & Kitchen,Kitchen,ZenLiving,826.05,1735.34
+PROD00785,HomeNest Decor Model-0785,Home & Kitchen,Decor,HomeNest,1324.7,1894.93
+PROD00786,NovaTech Audio Model-0786,Electronics,Audio,NovaTech,1193.39,1586.37
+PROD00787,FlexGear Team Sports Model-0787,Sports,Team Sports,FlexGear,2273.46,4801.96
+PROD00788,HomeNest Kitchen Model-0788,Home & Kitchen,Kitchen,HomeNest,950.48,2024.57
+PROD00789,HomeNest Appliances Model-0789,Home & Kitchen,Appliances,HomeNest,393.81,602.12
+PROD00790,SoundMax Laptops Model-0790,Electronics,Laptops,SoundMax,580.16,1241.27
+PROD00791,Voltix Laptops Model-0791,Electronics,Laptops,Voltix,1330.96,1928.54
+PROD00792,RunX Running Model-0792,Sports,Running,RunX,962.11,1667.51
+PROD00793,Bloom Personal Care Model-0793,Beauty,Personal Care,Bloom,1415.56,2847.24
+PROD00794,StreetNine Kids Model-0794,Fashion,Kids,StreetNine,803.1,1761.88
+PROD00795,CasaPlus Decor Model-0795,Home & Kitchen,Decor,CasaPlus,627.12,1086.92
+PROD00796,ActivePro Outdoor Model-0796,Sports,Outdoor,ActivePro,675.2,1099.28
+PROD00797,PureAura Skincare Model-0797,Beauty,Skincare,PureAura,252.77,366.14
+PROD00798,Viva Footwear Model-0798,Fashion,Footwear,Viva,204.0,387.71
+PROD00799,ActivePro Team Sports Model-0799,Sports,Team Sports,ActivePro,1116.41,1422.28
+PROD00800,ModeHub Women Model-0800,Fashion,Women,ModeHub,1254.57,1885.41
+PROD00801,Bloom Fragrance Model-0801,Beauty,Fragrance,Bloom,405.09,780.23
+PROD00802,PixelPro Mobiles Model-0802,Electronics,Mobiles,PixelPro,1860.94,3128.81
+PROD00803,Bloom Skincare Model-0803,Beauty,Skincare,Bloom,1019.82,1519.67
+PROD00804,SoundMax Smart Home Model-0804,Electronics,Smart Home,SoundMax,1058.43,1405.43
+PROD00805,FlexGear Yoga Model-0805,Sports,Yoga,FlexGear,291.47,628.41
+PROD00806,ModeHub Men Model-0806,Fashion,Men,ModeHub,158.64,343.68
+PROD00807,BrightHome Appliances Model-0807,Home & Kitchen,Appliances,BrightHome,5269.39,9591.47
+PROD00808,Viva Women Model-0808,Fashion,Women,Viva,1699.82,2713.84
+PROD00809,ModeHub Men Model-0809,Fashion,Men,ModeHub,370.67,620.12
+PROD00810,CookCraft Furniture Model-0810,Home & Kitchen,Furniture,CookCraft,294.5,501.15
+PROD00811,NovaTech Smart Home Model-0811,Electronics,Smart Home,NovaTech,492.67,1021.27
+PROD00812,StreetNine Accessories Model-0812,Fashion,Accessories,StreetNine,2382.11,3247.31
+PROD00813,RunX Outdoor Model-0813,Sports,Outdoor,RunX,1851.24,3022.96
+PROD00814,Voltix Laptops Model-0814,Electronics,Laptops,Voltix,385.08,701.13
+PROD00815,NovaTech Audio Model-0815,Electronics,Audio,NovaTech,860.39,1203.0
+PROD00816,VelvetSkin Skincare Model-0816,Beauty,Skincare,VelvetSkin,1200.08,1602.4
+PROD00817,SoundMax Laptops Model-0817,Electronics,Laptops,SoundMax,1002.05,1388.5
+PROD00818,PixelPro Laptops Model-0818,Electronics,Laptops,PixelPro,1113.97,1370.66
+PROD00819,SoundMax Audio Model-0819,Electronics,Audio,SoundMax,438.35,794.84
+PROD00820,HomeNest Furniture Model-0820,Home & Kitchen,Furniture,HomeNest,458.04,968.35
+PROD00821,CookCraft Appliances Model-0821,Home & Kitchen,Appliances,CookCraft,409.8,532.27
+PROD00822,NovaTech Accessories Model-0822,Electronics,Accessories,NovaTech,212.86,388.14
+PROD00823,SoundMax Laptops Model-0823,Electronics,Laptops,SoundMax,831.76,1436.31
+PROD00824,ZenLiving Appliances Model-0824,Home & Kitchen,Appliances,ZenLiving,736.73,1235.92
+PROD00825,PixelPro Laptops Model-0825,Electronics,Laptops,PixelPro,797.33,1051.63
+PROD00826,Trendora Kids Model-0826,Fashion,Kids,Trendora,1808.97,2469.87
+PROD00827,GlowLab Skincare Model-0827,Beauty,Skincare,GlowLab,1826.64,2958.38
+PROD00828,Trendora Women Model-0828,Fashion,Women,Trendora,568.85,829.96
+PROD00829,ActivePro Yoga Model-0829,Sports,Yoga,ActivePro,324.43,479.69
+PROD00830,FitCore Outdoor Model-0830,Sports,Outdoor,FitCore,883.9,1847.25
+PROD00831,ModeHub Women Model-0831,Fashion,Women,ModeHub,821.79,1298.26
+PROD00832,HomeNest Decor Model-0832,Home & Kitchen,Decor,HomeNest,1084.63,1516.38
+PROD00833,Viva Accessories Model-0833,Fashion,Accessories,Viva,327.04,420.7
+PROD00834,Trendora Footwear Model-0834,Fashion,Footwear,Trendora,616.52,890.2
+PROD00835,Viva Accessories Model-0835,Fashion,Accessories,Viva,1752.3,2134.21
+PROD00836,BrightHome Kitchen Model-0836,Home & Kitchen,Kitchen,BrightHome,586.55,928.93
+PROD00837,NovaTech Mobiles Model-0837,Electronics,Mobiles,NovaTech,759.24,1339.51
+PROD00838,BrightHome Decor Model-0838,Home & Kitchen,Decor,BrightHome,610.97,993.18
+PROD00839,PixelPro Accessories Model-0839,Electronics,Accessories,PixelPro,490.88,875.8
+PROD00840,VelvetSkin Haircare Model-0840,Beauty,Haircare,VelvetSkin,986.37,1395.43
+PROD00841,StreetNine Accessories Model-0841,Fashion,Accessories,StreetNine,238.99,303.99
+PROD00842,RunX Fitness Model-0842,Sports,Fitness,RunX,1406.47,2318.77
+PROD00843,StreetNine Footwear Model-0843,Fashion,Footwear,StreetNine,352.85,739.75
+PROD00844,PeakMotion Yoga Model-0844,Sports,Yoga,PeakMotion,2587.31,3783.41
+PROD00845,HomeNest Appliances Model-0845,Home & Kitchen,Appliances,HomeNest,290.18,404.83
+PROD00846,HomeNest Appliances Model-0846,Home & Kitchen,Appliances,HomeNest,3415.5,6478.99
+PROD00847,FitCore Fitness Model-0847,Sports,Fitness,FitCore,2462.0,3253.56
+PROD00848,PixelPro Laptops Model-0848,Electronics,Laptops,PixelPro,584.16,829.09
+PROD00849,Viva Men Model-0849,Fashion,Men,Viva,337.19,593.67
+PROD00850,ZenLiving Decor Model-0850,Home & Kitchen,Decor,ZenLiving,916.15,1684.36
+PROD00851,Trendora Accessories Model-0851,Fashion,Accessories,Trendora,572.74,1148.87
+PROD00852,BrightHome Storage Model-0852,Home & Kitchen,Storage,BrightHome,1648.16,3357.18
+PROD00853,FitCore Outdoor Model-0853,Sports,Outdoor,FitCore,355.08,506.26
+PROD00854,Luma Skincare Model-0854,Beauty,Skincare,Luma,1000.2,2038.7
+PROD00855,CookCraft Furniture Model-0855,Home & Kitchen,Furniture,CookCraft,440.22,639.1
+PROD00856,Trendora Footwear Model-0856,Fashion,Footwear,Trendora,911.1,1675.27
+PROD00857,GlowLab Makeup Model-0857,Beauty,Makeup,GlowLab,384.9,837.49
+PROD00858,Voltix Mobiles Model-0858,Electronics,Mobiles,Voltix,442.28,819.35
+PROD00859,FlexGear Yoga Model-0859,Sports,Yoga,FlexGear,237.05,499.68
+PROD00860,StreetNine Footwear Model-0860,Fashion,Footwear,StreetNine,898.34,1218.36
+PROD00861,RunX Running Model-0861,Sports,Running,RunX,891.57,1087.4
+PROD00862,FlexGear Outdoor Model-0862,Sports,Outdoor,FlexGear,913.63,1473.83
+PROD00863,SoundMax Smart Home Model-0863,Electronics,Smart Home,SoundMax,2225.22,2929.43
+PROD00864,PixelPro Mobiles Model-0864,Electronics,Mobiles,PixelPro,1956.93,2827.94
+PROD00865,NovaTech Audio Model-0865,Electronics,Audio,NovaTech,315.87,569.06
+PROD00866,NovaTech Accessories Model-0866,Electronics,Accessories,NovaTech,483.54,895.7
+PROD00867,NovaTech Laptops Model-0867,Electronics,Laptops,NovaTech,429.77,750.7
+PROD00868,UrbanWeave Men Model-0868,Fashion,Men,UrbanWeave,1768.24,3817.49
+PROD00869,HomeNest Storage Model-0869,Home & Kitchen,Storage,HomeNest,625.06,1000.74
+PROD00870,FlexGear Running Model-0870,Sports,Running,FlexGear,1065.79,1946.64
+PROD00871,RunX Fitness Model-0871,Sports,Fitness,RunX,1315.0,1965.95
+PROD00872,StreetNine Accessories Model-0872,Fashion,Accessories,StreetNine,882.15,1778.02
+PROD00873,GlowLab Skincare Model-0873,Beauty,Skincare,GlowLab,1813.18,3175.16
+PROD00874,ModeHub Accessories Model-0874,Fashion,Accessories,ModeHub,433.28,606.93
+PROD00875,CasaPlus Kitchen Model-0875,Home & Kitchen,Kitchen,CasaPlus,1015.8,2132.12
+PROD00876,SoundMax Audio Model-0876,Electronics,Audio,SoundMax,198.22,370.93
+PROD00877,SoundMax Accessories Model-0877,Electronics,Accessories,SoundMax,2122.57,3779.42
+PROD00878,PixelPro Smart Home Model-0878,Electronics,Smart Home,PixelPro,528.44,682.07
+PROD00879,SoundMax Audio Model-0879,Electronics,Audio,SoundMax,1314.83,2861.84
+PROD00880,ModeHub Women Model-0880,Fashion,Women,ModeHub,307.37,375.61
+PROD00881,Viva Men Model-0881,Fashion,Men,Viva,553.92,948.58
+PROD00882,FlexGear Fitness Model-0882,Sports,Fitness,FlexGear,2513.81,3813.92
+PROD00883,Viva Accessories Model-0883,Fashion,Accessories,Viva,265.29,479.44
+PROD00884,Astra Mobiles Model-0884,Electronics,Mobiles,Astra,1508.4,2364.27
+PROD00885,SoundMax Laptops Model-0885,Electronics,Laptops,SoundMax,889.8,1529.76
+PROD00886,PixelPro Audio Model-0886,Electronics,Audio,PixelPro,1597.48,3336.37
+PROD00887,CookCraft Decor Model-0887,Home & Kitchen,Decor,CookCraft,542.52,805.03
+PROD00888,FitCore Yoga Model-0888,Sports,Yoga,FitCore,643.19,1010.12
+PROD00889,CasaPlus Kitchen Model-0889,Home & Kitchen,Kitchen,CasaPlus,1004.75,1709.2
+PROD00890,PeakMotion Yoga Model-0890,Sports,Yoga,PeakMotion,849.04,1695.15
+PROD00891,Bloom Haircare Model-0891,Beauty,Haircare,Bloom,981.09,1560.28
+PROD00892,NovaTech Smart Home Model-0892,Electronics,Smart Home,NovaTech,982.04,1956.55
+PROD00893,SoundMax Laptops Model-0893,Electronics,Laptops,SoundMax,518.32,720.96
+PROD00894,NovaTech Mobiles Model-0894,Electronics,Mobiles,NovaTech,464.26,1020.77
+PROD00895,FitCore Fitness Model-0895,Sports,Fitness,FitCore,1337.55,2637.83
+PROD00896,NovaTech Accessories Model-0896,Electronics,Accessories,NovaTech,1965.84,3580.37
+PROD00897,HomeNest Decor Model-0897,Home & Kitchen,Decor,HomeNest,3135.94,6017.14
+PROD00898,Trendora Women Model-0898,Fashion,Women,Trendora,1046.71,1456.79
+PROD00899,VelvetSkin Haircare Model-0899,Beauty,Haircare,VelvetSkin,1131.21,1964.62
+PROD00900,FitCore Outdoor Model-0900,Sports,Outdoor,FitCore,546.09,1062.51
+PROD00901,ModeHub Footwear Model-0901,Fashion,Footwear,ModeHub,2231.85,3632.88
+PROD00902,Astra Accessories Model-0902,Electronics,Accessories,Astra,400.62,751.74
+PROD00903,VelvetSkin Skincare Model-0903,Beauty,Skincare,VelvetSkin,1583.86,3260.71
+PROD00904,PeakMotion Running Model-0904,Sports,Running,PeakMotion,145.53,268.24
+PROD00905,Voltix Accessories Model-0905,Electronics,Accessories,Voltix,749.16,1300.79
+PROD00906,Viva Men Model-0906,Fashion,Men,Viva,2659.34,4095.49
+PROD00907,Astra Accessories Model-0907,Electronics,Accessories,Astra,824.84,1130.53
+PROD00908,NovaTech Accessories Model-0908,Electronics,Accessories,NovaTech,523.44,1063.86
+PROD00909,RunX Running Model-0909,Sports,Running,RunX,323.25,660.48
+PROD00910,UrbanWeave Women Model-0910,Fashion,Women,UrbanWeave,816.06,1403.98
+PROD00911,NovaTech Laptops Model-0911,Electronics,Laptops,NovaTech,1120.13,1680.44
+PROD00912,ModeHub Women Model-0912,Fashion,Women,ModeHub,2137.93,4196.43
+PROD00913,PureAura Personal Care Model-0913,Beauty,Personal Care,PureAura,2218.9,3093.52
+PROD00914,FitCore Fitness Model-0914,Sports,Fitness,FitCore,2697.9,5252.47
+PROD00915,Astra Mobiles Model-0915,Electronics,Mobiles,Astra,191.68,283.82
+PROD00916,Viva Accessories Model-0916,Fashion,Accessories,Viva,3322.56,4096.67
+PROD00917,PureAura Fragrance Model-0917,Beauty,Fragrance,PureAura,425.86,679.87
+PROD00918,PeakMotion Fitness Model-0918,Sports,Fitness,PeakMotion,224.85,395.44
+PROD00919,NovaTech Laptops Model-0919,Electronics,Laptops,NovaTech,612.1,1278.23
+PROD00920,NovaTech Mobiles Model-0920,Electronics,Mobiles,NovaTech,1232.51,1846.07
+PROD00921,Astra Mobiles Model-0921,Electronics,Mobiles,Astra,422.88,571.0
+PROD00922,FitCore Fitness Model-0922,Sports,Fitness,FitCore,2227.6,3791.99
+PROD00923,PixelPro Audio Model-0923,Electronics,Audio,PixelPro,310.9,619.57
+PROD00924,PeakMotion Running Model-0924,Sports,Running,PeakMotion,2361.32,3564.99
+PROD00925,CasaPlus Furniture Model-0925,Home & Kitchen,Furniture,CasaPlus,334.08,477.05
+PROD00926,PeakMotion Team Sports Model-0926,Sports,Team Sports,PeakMotion,1581.59,2440.73
+PROD00927,UrbanWeave Men Model-0927,Fashion,Men,UrbanWeave,2215.94,3564.28
+PROD00928,Viva Women Model-0928,Fashion,Women,Viva,2479.47,3736.56
+PROD00929,Trendora Men Model-0929,Fashion,Men,Trendora,443.07,882.32
+PROD00930,PixelPro Accessories Model-0930,Electronics,Accessories,PixelPro,403.92,696.9
+PROD00931,ModeHub Footwear Model-0931,Fashion,Footwear,ModeHub,957.27,1286.77
+PROD00932,StreetNine Men Model-0932,Fashion,Men,StreetNine,1158.6,1585.77
+PROD00933,HomeNest Decor Model-0933,Home & Kitchen,Decor,HomeNest,959.48,1165.97
+PROD00934,PixelPro Mobiles Model-0934,Electronics,Mobiles,PixelPro,482.7,1036.73
+PROD00935,RunX Outdoor Model-0935,Sports,Outdoor,RunX,913.11,1605.71
+PROD00936,CasaPlus Decor Model-0936,Home & Kitchen,Decor,CasaPlus,1479.12,2068.93
+PROD00937,StreetNine Men Model-0937,Fashion,Men,StreetNine,1381.04,2767.36
+PROD00938,ModeHub Men Model-0938,Fashion,Men,ModeHub,1010.74,1958.96
+PROD00939,BrightHome Decor Model-0939,Home & Kitchen,Decor,BrightHome,3363.73,4590.31
+PROD00940,NovaTech Accessories Model-0940,Electronics,Accessories,NovaTech,518.47,1054.3
+PROD00941,ZenLiving Furniture Model-0941,Home & Kitchen,Furniture,ZenLiving,1364.43,1849.75
+PROD00942,CasaPlus Appliances Model-0942,Home & Kitchen,Appliances,CasaPlus,372.81,588.6
+PROD00943,Luma Personal Care Model-0943,Beauty,Personal Care,Luma,1949.45,3438.91
+PROD00944,StreetNine Accessories Model-0944,Fashion,Accessories,StreetNine,469.69,573.07
+PROD00945,GlowLab Makeup Model-0945,Beauty,Makeup,GlowLab,2582.18,5636.05
+PROD00946,Viva Women Model-0946,Fashion,Women,Viva,2192.35,3637.01
+PROD00947,CasaPlus Appliances Model-0947,Home & Kitchen,Appliances,CasaPlus,977.46,1211.04
+PROD00948,Viva Footwear Model-0948,Fashion,Footwear,Viva,1075.82,1450.88
+PROD00949,UrbanWeave Women Model-0949,Fashion,Women,UrbanWeave,405.98,833.59
+PROD00950,ActivePro Running Model-0950,Sports,Running,ActivePro,2315.99,5007.51
+PROD00951,HomeNest Storage Model-0951,Home & Kitchen,Storage,HomeNest,605.65,1159.48
+PROD00952,Voltix Laptops Model-0952,Electronics,Laptops,Voltix,600.51,843.29
+PROD00953,CookCraft Furniture Model-0953,Home & Kitchen,Furniture,CookCraft,2716.43,5871.08
+PROD00954,Voltix Laptops Model-0954,Electronics,Laptops,Voltix,4590.29,8706.48
+PROD00955,CasaPlus Appliances Model-0955,Home & Kitchen,Appliances,CasaPlus,1130.06,1617.05
+PROD00956,VelvetSkin Skincare Model-0956,Beauty,Skincare,VelvetSkin,997.97,1313.18
+PROD00957,PixelPro Mobiles Model-0957,Electronics,Mobiles,PixelPro,475.13,784.62
+PROD00958,ModeHub Kids Model-0958,Fashion,Kids,ModeHub,602.41,783.65
+PROD00959,StreetNine Kids Model-0959,Fashion,Kids,StreetNine,773.64,1086.73
+PROD00960,Voltix Accessories Model-0960,Electronics,Accessories,Voltix,10444.12,20188.57
+PROD00961,Luma Fragrance Model-0961,Beauty,Fragrance,Luma,174.75,312.74
+PROD00962,Trendora Kids Model-0962,Fashion,Kids,Trendora,793.94,1459.14
+PROD00963,CasaPlus Decor Model-0963,Home & Kitchen,Decor,CasaPlus,150.97,228.44
+PROD00964,Voltix Laptops Model-0964,Electronics,Laptops,Voltix,967.28,1530.81
+PROD00965,ModeHub Kids Model-0965,Fashion,Kids,ModeHub,2478.65,3287.17
+PROD00966,Trendora Footwear Model-0966,Fashion,Footwear,Trendora,429.83,713.77
+PROD00967,NovaTech Smart Home Model-0967,Electronics,Smart Home,NovaTech,1227.65,2298.12
+PROD00968,CookCraft Decor Model-0968,Home & Kitchen,Decor,CookCraft,1152.85,2349.66
+PROD00969,HomeNest Kitchen Model-0969,Home & Kitchen,Kitchen,HomeNest,2378.94,3618.47
+PROD00970,StreetNine Women Model-0970,Fashion,Women,StreetNine,848.29,1796.52
+PROD00971,StreetNine Women Model-0971,Fashion,Women,StreetNine,398.98,492.39
+PROD00972,CookCraft Decor Model-0972,Home & Kitchen,Decor,CookCraft,3244.6,5389.67
+PROD00973,ModeHub Men Model-0973,Fashion,Men,ModeHub,927.93,1991.62
+PROD00974,VelvetSkin Personal Care Model-0974,Beauty,Personal Care,VelvetSkin,160.61,217.89
+PROD00975,CasaPlus Storage Model-0975,Home & Kitchen,Storage,CasaPlus,316.52,535.19
+PROD00976,Astra Audio Model-0976,Electronics,Audio,Astra,1838.22,2660.07
+PROD00977,Trendora Men Model-0977,Fashion,Men,Trendora,6377.07,10279.44
+PROD00978,Voltix Accessories Model-0978,Electronics,Accessories,Voltix,424.07,661.98
+PROD00979,HomeNest Appliances Model-0979,Home & Kitchen,Appliances,HomeNest,2333.98,2931.24
+PROD00980,Trendora Footwear Model-0980,Fashion,Footwear,Trendora,397.68,691.11
+PROD00981,ZenLiving Furniture Model-0981,Home & Kitchen,Furniture,ZenLiving,641.73,1276.81
+PROD00982,NovaTech Accessories Model-0982,Electronics,Accessories,NovaTech,859.72,1879.0
+PROD00983,Bloom Personal Care Model-0983,Beauty,Personal Care,Bloom,261.62,322.73
+PROD00984,NovaTech Laptops Model-0984,Electronics,Laptops,NovaTech,2028.47,3392.07
+PROD00985,ZenLiving Furniture Model-0985,Home & Kitchen,Furniture,ZenLiving,1098.97,1344.53
+PROD00986,UrbanWeave Women Model-0986,Fashion,Women,UrbanWeave,3881.09,7258.35
+PROD00987,NovaTech Mobiles Model-0987,Electronics,Mobiles,NovaTech,156.66,343.89
+PROD00988,PureAura Skincare Model-0988,Beauty,Skincare,PureAura,382.23,742.76
+PROD00989,ActivePro Yoga Model-0989,Sports,Yoga,ActivePro,1246.03,2279.44
+PROD00990,HomeNest Appliances Model-0990,Home & Kitchen,Appliances,HomeNest,511.78,999.62
+PROD00991,CookCraft Furniture Model-0991,Home & Kitchen,Furniture,CookCraft,1082.91,1757.2
+PROD00992,BrightHome Decor Model-0992,Home & Kitchen,Decor,BrightHome,695.67,1310.83
+PROD00993,HomeNest Storage Model-0993,Home & Kitchen,Storage,HomeNest,291.4,416.93
+PROD00994,CasaPlus Furniture Model-0994,Home & Kitchen,Furniture,CasaPlus,997.02,1585.24
+PROD00995,PeakMotion Team Sports Model-0995,Sports,Team Sports,PeakMotion,1258.63,1562.15
+PROD00996,Trendora Women Model-0996,Fashion,Women,Trendora,2455.49,4114.32
+PROD00997,FlexGear Team Sports Model-0997,Sports,Team Sports,FlexGear,1298.26,2609.49
+PROD00998,Bloom Fragrance Model-0998,Beauty,Fragrance,Bloom,819.99,1124.68
+PROD00999,VelvetSkin Personal Care Model-0999,Beauty,Personal Care,VelvetSkin,411.32,758.41
+PROD01000,PeakMotion Running Model-1000,Sports,Running,PeakMotion,1571.56,2720.5
