@@ -1,0 +1,4 @@
+scenario,recovery_rate,potential_recovered_revenue
+Conservative,0.1,186706.76600000003
+Base,0.2,373413.53200000006
+Optimistic,0.3,560120.2980000001
